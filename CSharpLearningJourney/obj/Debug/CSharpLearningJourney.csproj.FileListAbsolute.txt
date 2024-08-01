@@ -1,0 +1,7 @@
+C:\Users\84339\source\repos\CSharpLearningJourney\CSharpLearningJourney\bin\Debug\CSharpLearningJourney.exe.config
+C:\Users\84339\source\repos\CSharpLearningJourney\CSharpLearningJourney\bin\Debug\CSharpLearningJourney.exe
+C:\Users\84339\source\repos\CSharpLearningJourney\CSharpLearningJourney\bin\Debug\CSharpLearningJourney.pdb
+C:\Users\84339\source\repos\CSharpLearningJourney\CSharpLearningJourney\obj\Debug\CSharpLearningJourney.csproj.AssemblyReference.cache
+C:\Users\84339\source\repos\CSharpLearningJourney\CSharpLearningJourney\obj\Debug\CSharpLearningJourney.csproj.CoreCompileInputs.cache
+C:\Users\84339\source\repos\CSharpLearningJourney\CSharpLearningJourney\obj\Debug\CSharpLearningJourney.exe
+C:\Users\84339\source\repos\CSharpLearningJourney\CSharpLearningJourney\obj\Debug\CSharpLearningJourney.pdb
