@@ -3,16 +3,52 @@
   "WorkspaceRootPath": "C:\\Users\\84339\\source\\repos\\CSharpLearningJourney\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6C6DA512-FF45-4245-8D3C-E6F0A17CCB17}|CSharpLearningJourney\\CSharpLearningJourney.csproj|c:\\users\\84339\\source\\repos\\csharplearningjourney\\csharplearningjourney\\introduction_to_c#\\lesson9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C6DA512-FF45-4245-8D3C-E6F0A17CCB17}|CSharpLearningJourney\\CSharpLearningJourney.csproj|solutionrelative:csharplearningjourney\\introduction_to_c#\\lesson9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6C6DA512-FF45-4245-8D3C-E6F0A17CCB17}|CSharpLearningJourney\\CSharpLearningJourney.csproj|c:\\users\\84339\\source\\repos\\csharplearningjourney\\csharplearningjourney\\control_structures\\lesson6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C6DA512-FF45-4245-8D3C-E6F0A17CCB17}|CSharpLearningJourney\\CSharpLearningJourney.csproj|solutionrelative:csharplearningjourney\\control_structures\\lesson6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C6DA512-FF45-4245-8D3C-E6F0A17CCB17}|CSharpLearningJourney\\CSharpLearningJourney.csproj|c:\\users\\84339\\source\\repos\\csharplearningjourney\\csharplearningjourney\\control_structures\\lesson4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C6DA512-FF45-4245-8D3C-E6F0A17CCB17}|CSharpLearningJourney\\CSharpLearningJourney.csproj|solutionrelative:csharplearningjourney\\control_structures\\lesson4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C6DA512-FF45-4245-8D3C-E6F0A17CCB17}|CSharpLearningJourney\\CSharpLearningJourney.csproj|c:\\users\\84339\\source\\repos\\csharplearningjourney\\csharplearningjourney\\control_structures\\lesson5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C6DA512-FF45-4245-8D3C-E6F0A17CCB17}|CSharpLearningJourney\\CSharpLearningJourney.csproj|solutionrelative:csharplearningjourney\\control_structures\\lesson5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C6DA512-FF45-4245-8D3C-E6F0A17CCB17}|CSharpLearningJourney\\CSharpLearningJourney.csproj|c:\\users\\84339\\source\\repos\\csharplearningjourney\\csharplearningjourney\\control_structures\\lesson3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C6DA512-FF45-4245-8D3C-E6F0A17CCB17}|CSharpLearningJourney\\CSharpLearningJourney.csproj|solutionrelative:csharplearningjourney\\control_structures\\lesson3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C6DA512-FF45-4245-8D3C-E6F0A17CCB17}|CSharpLearningJourney\\CSharpLearningJourney.csproj|c:\\users\\84339\\source\\repos\\csharplearningjourney\\csharplearningjourney\\control_structures\\lesson2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C6DA512-FF45-4245-8D3C-E6F0A17CCB17}|CSharpLearningJourney\\CSharpLearningJourney.csproj|solutionrelative:csharplearningjourney\\control_structures\\lesson2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C6DA512-FF45-4245-8D3C-E6F0A17CCB17}|CSharpLearningJourney\\CSharpLearningJourney.csproj|c:\\users\\84339\\source\\repos\\csharplearningjourney\\csharplearningjourney\\control_structures\\lesson1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C6DA512-FF45-4245-8D3C-E6F0A17CCB17}|CSharpLearningJourney\\CSharpLearningJourney.csproj|solutionrelative:csharplearningjourney\\control_structures\\lesson1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6C6DA512-FF45-4245-8D3C-E6F0A17CCB17}|CSharpLearningJourney\\CSharpLearningJourney.csproj|c:\\users\\84339\\source\\repos\\csharplearningjourney\\csharplearningjourney\\introduction_to_c#\\lesson8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6C6DA512-FF45-4245-8D3C-E6F0A17CCB17}|CSharpLearningJourney\\CSharpLearningJourney.csproj|solutionrelative:csharplearningjourney\\introduction_to_c#\\lesson8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C6DA512-FF45-4245-8D3C-E6F0A17CCB17}|CSharpLearningJourney\\CSharpLearningJourney.csproj|c:\\users\\84339\\source\\repos\\csharplearningjourney\\csharplearningjourney\\introduction_to_c#\\lesson7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C6DA512-FF45-4245-8D3C-E6F0A17CCB17}|CSharpLearningJourney\\CSharpLearningJourney.csproj|solutionrelative:csharplearningjourney\\introduction_to_c#\\lesson7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6C6DA512-FF45-4245-8D3C-E6F0A17CCB17}|CSharpLearningJourney\\CSharpLearningJourney.csproj|c:\\users\\84339\\source\\repos\\csharplearningjourney\\csharplearningjourney\\introduction_to_c#\\lesson9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C6DA512-FF45-4245-8D3C-E6F0A17CCB17}|CSharpLearningJourney\\CSharpLearningJourney.csproj|solutionrelative:csharplearningjourney\\introduction_to_c#\\lesson9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C6DA512-FF45-4245-8D3C-E6F0A17CCB17}|CSharpLearningJourney\\CSharpLearningJourney.csproj|c:\\users\\84339\\source\\repos\\csharplearningjourney\\csharplearningjourney\\introduction_to_c#\\lesson1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C6DA512-FF45-4245-8D3C-E6F0A17CCB17}|CSharpLearningJourney\\CSharpLearningJourney.csproj|solutionrelative:csharplearningjourney\\introduction_to_c#\\lesson1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{6C6DA512-FF45-4245-8D3C-E6F0A17CCB17}|CSharpLearningJourney\\CSharpLearningJourney.csproj|c:\\users\\84339\\source\\repos\\csharplearningjourney\\csharplearningjourney\\introduction_to_c#\\lesson2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:2:0:{6C6DA512-FF45-4245-8D3C-E6F0A17CCB17}|CSharpLearningJourney\\CSharpLearningJourney.csproj|solutionrelative:csharplearningjourney\\introduction_to_c#\\lesson2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C6DA512-FF45-4245-8D3C-E6F0A17CCB17}|CSharpLearningJourney\\CSharpLearningJourney.csproj|c:\\users\\84339\\source\\repos\\csharplearningjourney\\csharplearningjourney\\introduction_to_c#\\lesson3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C6DA512-FF45-4245-8D3C-E6F0A17CCB17}|CSharpLearningJourney\\CSharpLearningJourney.csproj|solutionrelative:csharplearningjourney\\introduction_to_c#\\lesson3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C6DA512-FF45-4245-8D3C-E6F0A17CCB17}|CSharpLearningJourney\\CSharpLearningJourney.csproj|c:\\users\\84339\\source\\repos\\csharplearningjourney\\csharplearningjourney\\introduction_to_c#\\lesson4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C6DA512-FF45-4245-8D3C-E6F0A17CCB17}|CSharpLearningJourney\\CSharpLearningJourney.csproj|solutionrelative:csharplearningjourney\\introduction_to_c#\\lesson4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6C6DA512-FF45-4245-8D3C-E6F0A17CCB17}|CSharpLearningJourney\\CSharpLearningJourney.csproj|c:\\users\\84339\\source\\repos\\csharplearningjourney\\csharplearningjourney\\introduction_to_c#\\lesson5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,20 +59,8 @@
       "RelativeMoniker": "D:0:0:{6C6DA512-FF45-4245-8D3C-E6F0A17CCB17}|CSharpLearningJourney\\CSharpLearningJourney.csproj|solutionrelative:csharplearningjourney\\introduction_to_c#\\lesson6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C6DA512-FF45-4245-8D3C-E6F0A17CCB17}|CSharpLearningJourney\\CSharpLearningJourney.csproj|c:\\users\\84339\\source\\repos\\csharplearningjourney\\csharplearningjourney\\introduction_to_c#\\lesson4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C6DA512-FF45-4245-8D3C-E6F0A17CCB17}|CSharpLearningJourney\\CSharpLearningJourney.csproj|solutionrelative:csharplearningjourney\\introduction_to_c#\\lesson4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C6DA512-FF45-4245-8D3C-E6F0A17CCB17}|CSharpLearningJourney\\CSharpLearningJourney.csproj|c:\\users\\84339\\source\\repos\\csharplearningjourney\\csharplearningjourney\\introduction_to_c#\\lesson3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C6DA512-FF45-4245-8D3C-E6F0A17CCB17}|CSharpLearningJourney\\CSharpLearningJourney.csproj|solutionrelative:csharplearningjourney\\introduction_to_c#\\lesson3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:2:0:{6C6DA512-FF45-4245-8D3C-E6F0A17CCB17}|CSharpLearningJourney\\CSharpLearningJourney.csproj|c:\\users\\84339\\source\\repos\\csharplearningjourney\\csharplearningjourney\\introduction_to_c#\\lesson2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:2:0:{6C6DA512-FF45-4245-8D3C-E6F0A17CCB17}|CSharpLearningJourney\\CSharpLearningJourney.csproj|solutionrelative:csharplearningjourney\\introduction_to_c#\\lesson2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C6DA512-FF45-4245-8D3C-E6F0A17CCB17}|CSharpLearningJourney\\CSharpLearningJourney.csproj|c:\\users\\84339\\source\\repos\\csharplearningjourney\\csharplearningjourney\\introduction_to_c#\\lesson1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C6DA512-FF45-4245-8D3C-E6F0A17CCB17}|CSharpLearningJourney\\CSharpLearningJourney.csproj|solutionrelative:csharplearningjourney\\introduction_to_c#\\lesson1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6C6DA512-FF45-4245-8D3C-E6F0A17CCB17}|CSharpLearningJourney\\CSharpLearningJourney.csproj|c:\\users\\84339\\source\\repos\\csharplearningjourney\\csharplearningjourney\\introduction_to_c#\\lesson7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C6DA512-FF45-4245-8D3C-E6F0A17CCB17}|CSharpLearningJourney\\CSharpLearningJourney.csproj|solutionrelative:csharplearningjourney\\introduction_to_c#\\lesson7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:1:0:{6C6DA512-FF45-4245-8D3C-E6F0A17CCB17}|CSharpLearningJourney\\CSharpLearningJourney.csproj|c:\\users\\84339\\source\\repos\\csharplearningjourney\\csharplearningjourney\\introduction_to_c#\\lesson2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -54,7 +78,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 14,
               "Title": "Lesson7.cs",
               "DocumentMoniker": "C:\\Users\\84339\\source\\repos\\CSharpLearningJourney\\CSharpLearningJourney\\introduction_to_C#\\Lesson7.cs",
               "RelativeDocumentMoniker": "CSharpLearningJourney\\introduction_to_C#\\Lesson7.cs",
@@ -69,77 +93,155 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Lesson6.cs",
+              "DocumentMoniker": "C:\\Users\\84339\\source\\repos\\CSharpLearningJourney\\CSharpLearningJourney\\control_structures\\Lesson6.cs",
+              "RelativeDocumentMoniker": "CSharpLearningJourney\\control_structures\\Lesson6.cs",
+              "ToolTip": "C:\\Users\\84339\\source\\repos\\CSharpLearningJourney\\CSharpLearningJourney\\control_structures\\Lesson6.cs*",
+              "RelativeToolTip": "CSharpLearningJourney\\control_structures\\Lesson6.cs*",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACcAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T12:07:19.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Lesson5.cs",
+              "DocumentMoniker": "C:\\Users\\84339\\source\\repos\\CSharpLearningJourney\\CSharpLearningJourney\\control_structures\\Lesson5.cs",
+              "RelativeDocumentMoniker": "CSharpLearningJourney\\control_structures\\Lesson5.cs",
+              "ToolTip": "C:\\Users\\84339\\source\\repos\\CSharpLearningJourney\\CSharpLearningJourney\\control_structures\\Lesson5.cs",
+              "RelativeToolTip": "CSharpLearningJourney\\control_structures\\Lesson5.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T12:00:48.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Lesson4.cs",
+              "DocumentMoniker": "C:\\Users\\84339\\source\\repos\\CSharpLearningJourney\\CSharpLearningJourney\\control_structures\\Lesson4.cs",
+              "RelativeDocumentMoniker": "CSharpLearningJourney\\control_structures\\Lesson4.cs",
+              "ToolTip": "C:\\Users\\84339\\source\\repos\\CSharpLearningJourney\\CSharpLearningJourney\\control_structures\\Lesson4.cs",
+              "RelativeToolTip": "CSharpLearningJourney\\control_structures\\Lesson4.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAiwBQAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T11:52:07.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Lesson3.cs",
+              "DocumentMoniker": "C:\\Users\\84339\\source\\repos\\CSharpLearningJourney\\CSharpLearningJourney\\control_structures\\Lesson3.cs",
+              "RelativeDocumentMoniker": "CSharpLearningJourney\\control_structures\\Lesson3.cs",
+              "ToolTip": "C:\\Users\\84339\\source\\repos\\CSharpLearningJourney\\CSharpLearningJourney\\control_structures\\Lesson3.cs",
+              "RelativeToolTip": "CSharpLearningJourney\\control_structures\\Lesson3.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T11:50:08.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Lesson2.cs",
+              "DocumentMoniker": "C:\\Users\\84339\\source\\repos\\CSharpLearningJourney\\CSharpLearningJourney\\control_structures\\Lesson2.cs",
+              "RelativeDocumentMoniker": "CSharpLearningJourney\\control_structures\\Lesson2.cs",
+              "ToolTip": "C:\\Users\\84339\\source\\repos\\CSharpLearningJourney\\CSharpLearningJourney\\control_structures\\Lesson2.cs",
+              "RelativeToolTip": "CSharpLearningJourney\\control_structures\\Lesson2.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAwwCsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T11:49:04.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Lesson1.cs",
+              "DocumentMoniker": "C:\\Users\\84339\\source\\repos\\CSharpLearningJourney\\CSharpLearningJourney\\control_structures\\Lesson1.cs",
+              "RelativeDocumentMoniker": "CSharpLearningJourney\\control_structures\\Lesson1.cs",
+              "ToolTip": "C:\\Users\\84339\\source\\repos\\CSharpLearningJourney\\CSharpLearningJourney\\control_structures\\Lesson1.cs",
+              "RelativeToolTip": "CSharpLearningJourney\\control_structures\\Lesson1.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T11:43:38.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Lesson9.cs",
               "DocumentMoniker": "C:\\Users\\84339\\source\\repos\\CSharpLearningJourney\\CSharpLearningJourney\\introduction_to_C#\\Lesson9.cs",
               "RelativeDocumentMoniker": "CSharpLearningJourney\\introduction_to_C#\\Lesson9.cs",
-              "ToolTip": "C:\\Users\\84339\\source\\repos\\CSharpLearningJourney\\CSharpLearningJourney\\introduction_to_C#\\Lesson9.cs*",
-              "RelativeToolTip": "CSharpLearningJourney\\introduction_to_C#\\Lesson9.cs*",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAEAAAA",
+              "ToolTip": "C:\\Users\\84339\\source\\repos\\CSharpLearningJourney\\CSharpLearningJourney\\introduction_to_C#\\Lesson9.cs",
+              "RelativeToolTip": "CSharpLearningJourney\\introduction_to_C#\\Lesson9.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAABFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-01T11:35:56.994Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Lesson8.cs",
               "DocumentMoniker": "C:\\Users\\84339\\source\\repos\\CSharpLearningJourney\\CSharpLearningJourney\\introduction_to_C#\\Lesson8.cs",
               "RelativeDocumentMoniker": "CSharpLearningJourney\\introduction_to_C#\\Lesson8.cs",
               "ToolTip": "C:\\Users\\84339\\source\\repos\\CSharpLearningJourney\\CSharpLearningJourney\\introduction_to_C#\\Lesson8.cs",
               "RelativeToolTip": "CSharpLearningJourney\\introduction_to_C#\\Lesson8.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAABSAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAABLAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-01T11:33:11.782Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 13,
               "Title": "Lesson6.cs",
               "DocumentMoniker": "C:\\Users\\84339\\source\\repos\\CSharpLearningJourney\\CSharpLearningJourney\\introduction_to_C#\\Lesson6.cs",
               "RelativeDocumentMoniker": "CSharpLearningJourney\\introduction_to_C#\\Lesson6.cs",
               "ToolTip": "C:\\Users\\84339\\source\\repos\\CSharpLearningJourney\\CSharpLearningJourney\\introduction_to_C#\\Lesson6.cs",
               "RelativeToolTip": "CSharpLearningJourney\\introduction_to_C#\\Lesson6.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAwwBUAAAAcAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-01T11:24:31.972Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 12,
               "Title": "Lesson5.cs",
               "DocumentMoniker": "C:\\Users\\84339\\source\\repos\\CSharpLearningJourney\\CSharpLearningJourney\\introduction_to_C#\\Lesson5.cs",
               "RelativeDocumentMoniker": "CSharpLearningJourney\\introduction_to_C#\\Lesson5.cs",
               "ToolTip": "C:\\Users\\84339\\source\\repos\\CSharpLearningJourney\\CSharpLearningJourney\\introduction_to_C#\\Lesson5.cs",
               "RelativeToolTip": "CSharpLearningJourney\\introduction_to_C#\\Lesson5.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAUwBMAAAAcAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-01T11:13:32.708Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "Lesson4.cs",
               "DocumentMoniker": "C:\\Users\\84339\\source\\repos\\CSharpLearningJourney\\CSharpLearningJourney\\introduction_to_C#\\Lesson4.cs",
               "RelativeDocumentMoniker": "CSharpLearningJourney\\introduction_to_C#\\Lesson4.cs",
               "ToolTip": "C:\\Users\\84339\\source\\repos\\CSharpLearningJourney\\CSharpLearningJourney\\introduction_to_C#\\Lesson4.cs",
               "RelativeToolTip": "CSharpLearningJourney\\introduction_to_C#\\Lesson4.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAiwCMAAAAfAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-01T11:12:11.563Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "Lesson3.cs",
               "DocumentMoniker": "C:\\Users\\84339\\source\\repos\\CSharpLearningJourney\\CSharpLearningJourney\\introduction_to_C#\\Lesson3.cs",
               "RelativeDocumentMoniker": "CSharpLearningJourney\\introduction_to_C#\\Lesson3.cs",
               "ToolTip": "C:\\Users\\84339\\source\\repos\\CSharpLearningJourney\\CSharpLearningJourney\\introduction_to_C#\\Lesson3.cs",
               "RelativeToolTip": "CSharpLearningJourney\\introduction_to_C#\\Lesson3.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAAZAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-01T11:08:58.68Z",
               "EditorCaption": ""
@@ -159,7 +261,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Lesson2.cs",
               "DocumentMoniker": "C:\\Users\\84339\\source\\repos\\CSharpLearningJourney\\CSharpLearningJourney\\introduction_to_C#\\Lesson2.cs",
               "RelativeDocumentMoniker": "CSharpLearningJourney\\introduction_to_C#\\Lesson2.cs",
@@ -172,7 +274,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 15,
               "Title": "Lesson2.cs",
               "DocumentMoniker": "C:\\Users\\84339\\source\\repos\\CSharpLearningJourney\\CSharpLearningJourney\\introduction_to_C#\\Lesson2.cs",
               "RelativeDocumentMoniker": "CSharpLearningJourney\\introduction_to_C#\\Lesson2.cs",
@@ -180,7 +282,8 @@
               "RelativeToolTip": "CSharpLearningJourney\\introduction_to_C#\\Lesson2.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T10:57:04.617Z"
+              "WhenOpened": "2024-08-01T10:57:04.617Z",
+              "EditorCaption": ""
             }
           ]
         }

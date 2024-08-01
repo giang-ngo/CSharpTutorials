@@ -8,7 +8,7 @@ namespace CSharpLearningJourney.introduction_to_C_
 {
     class Lesson4
     {
-        static void Main(string[] args)
+        static void Main()
         {
             float gpa;
             int age = 20;
