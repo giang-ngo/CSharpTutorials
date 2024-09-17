@@ -58,6 +58,13 @@
     <None Include="control_structures\Lesson4.cs" />
     <None Include="control_structures\Lesson5.cs" />
     <None Include="control_structures\Lesson6.cs" />
+    <None Include="method\Lesson1.cs" />
+    <None Include="method\Lesson2.cs" />
+    <None Include="method\Lesson3.cs" />
+    <None Include="method\Lesson4.cs" />
+    <None Include="method\Lesson5.cs" />
+    <None Include="method\Lesson6.cs" />
+    <None Include="method\Lesson7.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
