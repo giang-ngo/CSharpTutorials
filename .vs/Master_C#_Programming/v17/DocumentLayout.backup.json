@@ -3,23 +3,51 @@
   "WorkspaceRootPath": "C:\\Users\\84339\\source\\repos\\Master_C#_Programming\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7D28AA16-EDE9-4EDA-AEDD-28070E182C47}|Master_C#_Programming\\Master_C#_Programming.csproj|c:\\users\\84339\\source\\repos\\master_c#_programming\\master_c#_programming\\basic_data_structures\\lesson2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D28AA16-EDE9-4EDA-AEDD-28070E182C47}|Master_C#_Programming\\Master_C#_Programming.csproj|solutionrelative:master_c#_programming\\basic_data_structures\\lesson2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D28AA16-EDE9-4EDA-AEDD-28070E182C47}|Master_C#_Programming\\Master_C#_Programming.csproj|c:\\users\\84339\\source\\repos\\master_c#_programming\\master_c#_programming\\basic_data_structures\\lesson3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D28AA16-EDE9-4EDA-AEDD-28070E182C47}|Master_C#_Programming\\Master_C#_Programming.csproj|solutionrelative:master_c#_programming\\basic_data_structures\\lesson3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D28AA16-EDE9-4EDA-AEDD-28070E182C47}|Master_C#_Programming\\Master_C#_Programming.csproj|c:\\users\\84339\\source\\repos\\master_c#_programming\\master_c#_programming\\basic_data_structures\\lesson4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D28AA16-EDE9-4EDA-AEDD-28070E182C47}|Master_C#_Programming\\Master_C#_Programming.csproj|solutionrelative:master_c#_programming\\basic_data_structures\\lesson4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D28AA16-EDE9-4EDA-AEDD-28070E182C47}|Master_C#_Programming\\Master_C#_Programming.csproj|c:\\users\\84339\\source\\repos\\master_c#_programming\\master_c#_programming\\basic_data_structures\\lesson5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D28AA16-EDE9-4EDA-AEDD-28070E182C47}|Master_C#_Programming\\Master_C#_Programming.csproj|solutionrelative:master_c#_programming\\basic_data_structures\\lesson5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D28AA16-EDE9-4EDA-AEDD-28070E182C47}|Master_C#_Programming\\Master_C#_Programming.csproj|c:\\users\\84339\\source\\repos\\master_c#_programming\\master_c#_programming\\basic_data_structures\\lesson6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D28AA16-EDE9-4EDA-AEDD-28070E182C47}|Master_C#_Programming\\Master_C#_Programming.csproj|solutionrelative:master_c#_programming\\basic_data_structures\\lesson6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D28AA16-EDE9-4EDA-AEDD-28070E182C47}|Master_C#_Programming\\Master_C#_Programming.csproj|c:\\users\\84339\\source\\repos\\master_c#_programming\\master_c#_programming\\basic_data_structures\\lesson7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D28AA16-EDE9-4EDA-AEDD-28070E182C47}|Master_C#_Programming\\Master_C#_Programming.csproj|solutionrelative:master_c#_programming\\basic_data_structures\\lesson7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D28AA16-EDE9-4EDA-AEDD-28070E182C47}|Master_C#_Programming\\Master_C#_Programming.csproj|c:\\users\\84339\\source\\repos\\master_c#_programming\\master_c#_programming\\basic_data_structures\\lesson8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D28AA16-EDE9-4EDA-AEDD-28070E182C47}|Master_C#_Programming\\Master_C#_Programming.csproj|solutionrelative:master_c#_programming\\basic_data_structures\\lesson8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7D28AA16-EDE9-4EDA-AEDD-28070E182C47}|Master_C#_Programming\\Master_C#_Programming.csproj|c:\\users\\84339\\source\\repos\\master_c#_programming\\master_c#_programming\\method\\lesson1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D28AA16-EDE9-4EDA-AEDD-28070E182C47}|Master_C#_Programming\\Master_C#_Programming.csproj|solutionrelative:master_c#_programming\\method\\lesson1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D28AA16-EDE9-4EDA-AEDD-28070E182C47}|Master_C#_Programming\\Master_C#_Programming.csproj|c:\\users\\84339\\source\\repos\\master_c#_programming\\master_c#_programming\\method\\lesson7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7D28AA16-EDE9-4EDA-AEDD-28070E182C47}|Master_C#_Programming\\Master_C#_Programming.csproj|C:\\Users\\84339\\source\\repos\\Master_C#_Programming\\master_c#_programming\\method\\lesson7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D28AA16-EDE9-4EDA-AEDD-28070E182C47}|Master_C#_Programming\\Master_C#_Programming.csproj|solutionrelative:master_c#_programming\\method\\lesson7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D28AA16-EDE9-4EDA-AEDD-28070E182C47}|Master_C#_Programming\\Master_C#_Programming.csproj|c:\\users\\84339\\source\\repos\\master_c#_programming\\master_c#_programming\\method\\lesson5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7D28AA16-EDE9-4EDA-AEDD-28070E182C47}|Master_C#_Programming\\Master_C#_Programming.csproj|C:\\Users\\84339\\source\\repos\\Master_C#_Programming\\master_c#_programming\\method\\lesson5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D28AA16-EDE9-4EDA-AEDD-28070E182C47}|Master_C#_Programming\\Master_C#_Programming.csproj|solutionrelative:master_c#_programming\\method\\lesson5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D28AA16-EDE9-4EDA-AEDD-28070E182C47}|Master_C#_Programming\\Master_C#_Programming.csproj|c:\\users\\84339\\source\\repos\\master_c#_programming\\master_c#_programming\\method\\lesson4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7D28AA16-EDE9-4EDA-AEDD-28070E182C47}|Master_C#_Programming\\Master_C#_Programming.csproj|C:\\Users\\84339\\source\\repos\\Master_C#_Programming\\master_c#_programming\\method\\lesson4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D28AA16-EDE9-4EDA-AEDD-28070E182C47}|Master_C#_Programming\\Master_C#_Programming.csproj|solutionrelative:master_c#_programming\\method\\lesson4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D28AA16-EDE9-4EDA-AEDD-28070E182C47}|Master_C#_Programming\\Master_C#_Programming.csproj|c:\\users\\84339\\source\\repos\\master_c#_programming\\master_c#_programming\\method\\lesson3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7D28AA16-EDE9-4EDA-AEDD-28070E182C47}|Master_C#_Programming\\Master_C#_Programming.csproj|C:\\Users\\84339\\source\\repos\\Master_C#_Programming\\master_c#_programming\\method\\lesson3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D28AA16-EDE9-4EDA-AEDD-28070E182C47}|Master_C#_Programming\\Master_C#_Programming.csproj|solutionrelative:master_c#_programming\\method\\lesson3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -35,6 +63,97 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Lesson2.cs",
+              "DocumentMoniker": "C:\\Users\\84339\\source\\repos\\Master_C#_Programming\\Master_C#_Programming\\basic_data_structures\\Lesson2.cs",
+              "RelativeDocumentMoniker": "Master_C#_Programming\\basic_data_structures\\Lesson2.cs",
+              "ToolTip": "C:\\Users\\84339\\source\\repos\\Master_C#_Programming\\Master_C#_Programming\\basic_data_structures\\Lesson2.cs",
+              "RelativeToolTip": "Master_C#_Programming\\basic_data_structures\\Lesson2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T12:50:32.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Lesson3.cs",
+              "DocumentMoniker": "C:\\Users\\84339\\source\\repos\\Master_C#_Programming\\Master_C#_Programming\\basic_data_structures\\Lesson3.cs",
+              "RelativeDocumentMoniker": "Master_C#_Programming\\basic_data_structures\\Lesson3.cs",
+              "ToolTip": "C:\\Users\\84339\\source\\repos\\Master_C#_Programming\\Master_C#_Programming\\basic_data_structures\\Lesson3.cs",
+              "RelativeToolTip": "Master_C#_Programming\\basic_data_structures\\Lesson3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T12:50:29.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Lesson4.cs",
+              "DocumentMoniker": "C:\\Users\\84339\\source\\repos\\Master_C#_Programming\\Master_C#_Programming\\basic_data_structures\\Lesson4.cs",
+              "RelativeDocumentMoniker": "Master_C#_Programming\\basic_data_structures\\Lesson4.cs",
+              "ToolTip": "C:\\Users\\84339\\source\\repos\\Master_C#_Programming\\Master_C#_Programming\\basic_data_structures\\Lesson4.cs",
+              "RelativeToolTip": "Master_C#_Programming\\basic_data_structures\\Lesson4.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T12:50:25.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Lesson5.cs",
+              "DocumentMoniker": "C:\\Users\\84339\\source\\repos\\Master_C#_Programming\\Master_C#_Programming\\basic_data_structures\\Lesson5.cs",
+              "RelativeDocumentMoniker": "Master_C#_Programming\\basic_data_structures\\Lesson5.cs",
+              "ToolTip": "C:\\Users\\84339\\source\\repos\\Master_C#_Programming\\Master_C#_Programming\\basic_data_structures\\Lesson5.cs",
+              "RelativeToolTip": "Master_C#_Programming\\basic_data_structures\\Lesson5.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T12:50:21.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Lesson6.cs",
+              "DocumentMoniker": "C:\\Users\\84339\\source\\repos\\Master_C#_Programming\\Master_C#_Programming\\basic_data_structures\\Lesson6.cs",
+              "RelativeDocumentMoniker": "Master_C#_Programming\\basic_data_structures\\Lesson6.cs",
+              "ToolTip": "C:\\Users\\84339\\source\\repos\\Master_C#_Programming\\Master_C#_Programming\\basic_data_structures\\Lesson6.cs",
+              "RelativeToolTip": "Master_C#_Programming\\basic_data_structures\\Lesson6.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T12:50:18.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Lesson7.cs",
+              "DocumentMoniker": "C:\\Users\\84339\\source\\repos\\Master_C#_Programming\\Master_C#_Programming\\basic_data_structures\\Lesson7.cs",
+              "RelativeDocumentMoniker": "Master_C#_Programming\\basic_data_structures\\Lesson7.cs",
+              "ToolTip": "C:\\Users\\84339\\source\\repos\\Master_C#_Programming\\Master_C#_Programming\\basic_data_structures\\Lesson7.cs",
+              "RelativeToolTip": "Master_C#_Programming\\basic_data_structures\\Lesson7.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T12:50:13.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Lesson8.cs",
+              "DocumentMoniker": "C:\\Users\\84339\\source\\repos\\Master_C#_Programming\\Master_C#_Programming\\basic_data_structures\\Lesson8.cs",
+              "RelativeDocumentMoniker": "Master_C#_Programming\\basic_data_structures\\Lesson8.cs",
+              "ToolTip": "C:\\Users\\84339\\source\\repos\\Master_C#_Programming\\Master_C#_Programming\\basic_data_structures\\Lesson8.cs",
+              "RelativeToolTip": "Master_C#_Programming\\basic_data_structures\\Lesson8.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T12:50:09.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Lesson1.cs",
               "DocumentMoniker": "C:\\Users\\84339\\source\\repos\\Master_C#_Programming\\Master_C#_Programming\\method\\Lesson1.cs",
               "RelativeDocumentMoniker": "Master_C#_Programming\\method\\Lesson1.cs",
@@ -47,7 +166,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "Lesson7.cs",
               "DocumentMoniker": "C:\\Users\\84339\\source\\repos\\Master_C#_Programming\\Master_C#_Programming\\method\\Lesson7.cs",
               "RelativeDocumentMoniker": "Master_C#_Programming\\method\\Lesson7.cs",
@@ -55,12 +174,11 @@
               "RelativeToolTip": "Master_C#_Programming\\method\\Lesson7.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T12:45:28.381Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-17T12:45:28.381Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "Lesson5.cs",
               "DocumentMoniker": "C:\\Users\\84339\\source\\repos\\Master_C#_Programming\\Master_C#_Programming\\method\\Lesson5.cs",
               "RelativeDocumentMoniker": "Master_C#_Programming\\method\\Lesson5.cs",
@@ -68,12 +186,11 @@
               "RelativeToolTip": "Master_C#_Programming\\method\\Lesson5.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T12:45:21.181Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-17T12:45:21.181Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 10,
               "Title": "Lesson4.cs",
               "DocumentMoniker": "C:\\Users\\84339\\source\\repos\\Master_C#_Programming\\Master_C#_Programming\\method\\Lesson4.cs",
               "RelativeDocumentMoniker": "Master_C#_Programming\\method\\Lesson4.cs",
@@ -81,12 +198,11 @@
               "RelativeToolTip": "Master_C#_Programming\\method\\Lesson4.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T12:45:17.575Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-17T12:45:17.575Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 11,
               "Title": "Lesson3.cs",
               "DocumentMoniker": "C:\\Users\\84339\\source\\repos\\Master_C#_Programming\\Master_C#_Programming\\method\\Lesson3.cs",
               "RelativeDocumentMoniker": "Master_C#_Programming\\method\\Lesson3.cs",
@@ -94,8 +210,7 @@
               "RelativeToolTip": "Master_C#_Programming\\method\\Lesson3.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T12:45:13.501Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-17T12:45:13.501Z"
             }
           ]
         }
