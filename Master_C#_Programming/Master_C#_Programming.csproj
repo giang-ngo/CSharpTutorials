@@ -77,6 +77,13 @@
     <None Include="class_and_object-oriented\Lesson2.cs" />
     <None Include="class_and_object-oriented\Lesson3.cs" />
     <None Include="class_and_object-oriented\Lesson4.cs" />
+    <None Include="class_and_object-oriented\Lesson5.cs" />
+    <None Include="class_and_object-oriented\Lesson5_part2.cs" />
+    <None Include="class_and_object-oriented\Lesson5_part3.cs" />
+    <None Include="class_and_object-oriented\Lesson5_part4.cs" />
+    <None Include="class_and_object-oriented\Lesson6.cs" />
+    <None Include="class_and_object-oriented\Lesson7.cs" />
+    <None Include="class_and_object-oriented\Lesson7_part2.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

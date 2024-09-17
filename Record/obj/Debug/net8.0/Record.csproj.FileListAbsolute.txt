@@ -1,0 +1,15 @@
+C:\Users\84339\source\repos\Master_C#_Programming\Record\bin\Debug\net8.0\Record.exe
+C:\Users\84339\source\repos\Master_C#_Programming\Record\bin\Debug\net8.0\Record.deps.json
+C:\Users\84339\source\repos\Master_C#_Programming\Record\bin\Debug\net8.0\Record.runtimeconfig.json
+C:\Users\84339\source\repos\Master_C#_Programming\Record\bin\Debug\net8.0\Record.dll
+C:\Users\84339\source\repos\Master_C#_Programming\Record\bin\Debug\net8.0\Record.pdb
+C:\Users\84339\source\repos\Master_C#_Programming\Record\obj\Debug\net8.0\Record.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\84339\source\repos\Master_C#_Programming\Record\obj\Debug\net8.0\Record.AssemblyInfoInputs.cache
+C:\Users\84339\source\repos\Master_C#_Programming\Record\obj\Debug\net8.0\Record.AssemblyInfo.cs
+C:\Users\84339\source\repos\Master_C#_Programming\Record\obj\Debug\net8.0\Record.csproj.CoreCompileInputs.cache
+C:\Users\84339\source\repos\Master_C#_Programming\Record\obj\Debug\net8.0\Record.sourcelink.json
+C:\Users\84339\source\repos\Master_C#_Programming\Record\obj\Debug\net8.0\Record.dll
+C:\Users\84339\source\repos\Master_C#_Programming\Record\obj\Debug\net8.0\refint\Record.dll
+C:\Users\84339\source\repos\Master_C#_Programming\Record\obj\Debug\net8.0\Record.pdb
+C:\Users\84339\source\repos\Master_C#_Programming\Record\obj\Debug\net8.0\Record.genruntimeconfig.cache
+C:\Users\84339\source\repos\Master_C#_Programming\Record\obj\Debug\net8.0\ref\Record.dll
