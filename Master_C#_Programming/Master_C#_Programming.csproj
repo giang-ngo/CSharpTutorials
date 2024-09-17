@@ -52,6 +52,12 @@
     <None Include="introduction_to_C#\Lesson7.cs" />
     <None Include="introduction_to_C#\Lesson8.cs" />
     <None Include="introduction_to_C#\Lesson9.cs" />
+    <None Include="control_structures\Lesson1.cs" />
+    <None Include="control_structures\Lesson2.cs" />
+    <None Include="control_structures\Lesson3.cs" />
+    <None Include="control_structures\Lesson4.cs" />
+    <None Include="control_structures\Lesson5.cs" />
+    <None Include="control_structures\Lesson6.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
