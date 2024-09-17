@@ -73,6 +73,10 @@
     <None Include="basic_data_structures\Lesson6.cs" />
     <None Include="basic_data_structures\Lesson7.cs" />
     <None Include="basic_data_structures\Lesson8.cs" />
+    <None Include="class_and_object-oriented\Lesson1.cs" />
+    <None Include="class_and_object-oriented\Lesson2.cs" />
+    <None Include="class_and_object-oriented\Lesson3.cs" />
+    <None Include="class_and_object-oriented\Lesson4.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
