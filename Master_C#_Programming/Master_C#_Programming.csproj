@@ -84,6 +84,8 @@
     <None Include="class_and_object-oriented\Lesson6.cs" />
     <None Include="class_and_object-oriented\Lesson7.cs" />
     <None Include="class_and_object-oriented\Lesson7_part2.cs" />
+    <None Include="class_and_object-oriented\Lesson8.cs" />
+    <None Include="class_and_object-oriented\Lesson9.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

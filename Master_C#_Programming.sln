@@ -5,7 +5,7 @@ VisualStudioVersion = 17.11.35303.130
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Master_C#_Programming", "Master_C#_Programming\Master_C#_Programming.csproj", "{7D28AA16-EDE9-4EDA-AEDD-28070E182C47}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Record", "Record\Record.csproj", "{9F5CE8C8-FD09-442A-AB27-E15B40596086}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Record", "Record\Record.csproj", "{9F5CE8C8-FD09-442A-AB27-E15B40596086}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
