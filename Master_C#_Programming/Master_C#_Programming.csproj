@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="ClassDiagram1.cd" />
     <None Include="introduction_to_C#\Lesson1.cs" />
     <None Include="introduction_to_C#\Lesson2.cs" />
     <None Include="introduction_to_C#\Lesson3.cs" />
@@ -86,6 +87,12 @@
     <None Include="class_and_object-oriented\Lesson7_part2.cs" />
     <None Include="class_and_object-oriented\Lesson8.cs" />
     <None Include="class_and_object-oriented\Lesson9.cs" />
+    <None Include="class_and_object-oriented\Lesson10.cs" />
+    <None Include="class_and_object-oriented\Lesson11.cs" />
+    <None Include="class_and_object-oriented\Lesson12.cs" />
+    <None Include="class_and_object-oriented\Lesson13.cs" />
+    <None Include="class_and_object-oriented\Lesson14.cs" />
+    <None Include="basic_data_structures\Lesson9.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

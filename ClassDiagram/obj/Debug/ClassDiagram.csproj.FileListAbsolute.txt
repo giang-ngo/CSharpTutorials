@@ -1,0 +1,7 @@
+C:\Users\84339\source\repos\Master_C#_Programming\ClassDiagram\bin\Debug\ClassDiagram.exe.config
+C:\Users\84339\source\repos\Master_C#_Programming\ClassDiagram\bin\Debug\ClassDiagram.exe
+C:\Users\84339\source\repos\Master_C#_Programming\ClassDiagram\bin\Debug\ClassDiagram.pdb
+C:\Users\84339\source\repos\Master_C#_Programming\ClassDiagram\obj\Debug\ClassDiagram.csproj.AssemblyReference.cache
+C:\Users\84339\source\repos\Master_C#_Programming\ClassDiagram\obj\Debug\ClassDiagram.csproj.CoreCompileInputs.cache
+C:\Users\84339\source\repos\Master_C#_Programming\ClassDiagram\obj\Debug\ClassDiagram.exe
+C:\Users\84339\source\repos\Master_C#_Programming\ClassDiagram\obj\Debug\ClassDiagram.pdb
