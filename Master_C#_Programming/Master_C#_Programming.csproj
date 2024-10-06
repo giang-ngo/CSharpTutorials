@@ -43,6 +43,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="regex\Lesson6.cs" />
+    <None Include="regex\Lesson5.cs" />
+    <None Include="regex\Lesson4.cs" />
+    <None Include="regex\Lesson3.cs" />
+    <None Include="regex\Lesson2.cs" />
+    <None Include="regex\Lesson1.cs" />
     <None Include="ClassDiagram1.cd" />
     <None Include="introduction_to_C#\Lesson1.cs" />
     <None Include="introduction_to_C#\Lesson2.cs" />
