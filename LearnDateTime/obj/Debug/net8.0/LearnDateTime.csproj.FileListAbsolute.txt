@@ -1,0 +1,15 @@
+C:\Users\84339\source\repos\Master_C#_Programming\LearnDateTime\bin\Debug\net8.0\LearnDateTime.exe
+C:\Users\84339\source\repos\Master_C#_Programming\LearnDateTime\bin\Debug\net8.0\LearnDateTime.deps.json
+C:\Users\84339\source\repos\Master_C#_Programming\LearnDateTime\bin\Debug\net8.0\LearnDateTime.runtimeconfig.json
+C:\Users\84339\source\repos\Master_C#_Programming\LearnDateTime\bin\Debug\net8.0\LearnDateTime.dll
+C:\Users\84339\source\repos\Master_C#_Programming\LearnDateTime\bin\Debug\net8.0\LearnDateTime.pdb
+C:\Users\84339\source\repos\Master_C#_Programming\LearnDateTime\obj\Debug\net8.0\LearnDateTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\84339\source\repos\Master_C#_Programming\LearnDateTime\obj\Debug\net8.0\LearnDateTime.AssemblyInfoInputs.cache
+C:\Users\84339\source\repos\Master_C#_Programming\LearnDateTime\obj\Debug\net8.0\LearnDateTime.AssemblyInfo.cs
+C:\Users\84339\source\repos\Master_C#_Programming\LearnDateTime\obj\Debug\net8.0\LearnDateTime.csproj.CoreCompileInputs.cache
+C:\Users\84339\source\repos\Master_C#_Programming\LearnDateTime\obj\Debug\net8.0\LearnDateTime.sourcelink.json
+C:\Users\84339\source\repos\Master_C#_Programming\LearnDateTime\obj\Debug\net8.0\LearnDateTime.dll
+C:\Users\84339\source\repos\Master_C#_Programming\LearnDateTime\obj\Debug\net8.0\refint\LearnDateTime.dll
+C:\Users\84339\source\repos\Master_C#_Programming\LearnDateTime\obj\Debug\net8.0\LearnDateTime.pdb
+C:\Users\84339\source\repos\Master_C#_Programming\LearnDateTime\obj\Debug\net8.0\LearnDateTime.genruntimeconfig.cache
+C:\Users\84339\source\repos\Master_C#_Programming\LearnDateTime\obj\Debug\net8.0\ref\LearnDateTime.dll

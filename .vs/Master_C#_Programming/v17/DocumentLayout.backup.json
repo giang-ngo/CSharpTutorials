@@ -3,23 +3,43 @@
   "WorkspaceRootPath": "C:\\Users\\84339\\source\\repos\\Master_C#_Programming\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7D28AA16-EDE9-4EDA-AEDD-28070E182C47}|Master_C#_Programming\\Master_C#_Programming.csproj|c:\\users\\84339\\source\\repos\\master_c#_programming\\master_c#_programming\\regex\\lesson6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D28AA16-EDE9-4EDA-AEDD-28070E182C47}|Master_C#_Programming\\Master_C#_Programming.csproj|solutionrelative:master_c#_programming\\regex\\lesson6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7DDD7055-A5DE-4D6C-BF5A-D83196FF8A13}|LearnDateTime\\LearnDateTime.csproj|c:\\users\\84339\\source\\repos\\master_c#_programming\\learndatetime\\lesson3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DDD7055-A5DE-4D6C-BF5A-D83196FF8A13}|LearnDateTime\\LearnDateTime.csproj|solutionrelative:learndatetime\\lesson3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D28AA16-EDE9-4EDA-AEDD-28070E182C47}|Master_C#_Programming\\Master_C#_Programming.csproj|c:\\users\\84339\\source\\repos\\master_c#_programming\\master_c#_programming\\regex\\lesson5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7DDD7055-A5DE-4D6C-BF5A-D83196FF8A13}|LearnDateTime\\LearnDateTime.csproj|c:\\users\\84339\\source\\repos\\master_c#_programming\\learndatetime\\lesson2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DDD7055-A5DE-4D6C-BF5A-D83196FF8A13}|LearnDateTime\\LearnDateTime.csproj|solutionrelative:learndatetime\\lesson2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DDD7055-A5DE-4D6C-BF5A-D83196FF8A13}|LearnDateTime\\LearnDateTime.csproj|c:\\users\\84339\\source\\repos\\master_c#_programming\\learndatetime\\lesson1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DDD7055-A5DE-4D6C-BF5A-D83196FF8A13}|LearnDateTime\\LearnDateTime.csproj|solutionrelative:learndatetime\\lesson1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D28AA16-EDE9-4EDA-AEDD-28070E182C47}|Master_C#_Programming\\Master_C#_Programming.csproj|C:\\Users\\84339\\source\\repos\\Master_C#_Programming\\master_c#_programming\\exception\\lesson2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D28AA16-EDE9-4EDA-AEDD-28070E182C47}|Master_C#_Programming\\Master_C#_Programming.csproj|solutionrelative:master_c#_programming\\exception\\lesson2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D28AA16-EDE9-4EDA-AEDD-28070E182C47}|Master_C#_Programming\\Master_C#_Programming.csproj|C:\\Users\\84339\\source\\repos\\Master_C#_Programming\\master_c#_programming\\regex\\lesson5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D28AA16-EDE9-4EDA-AEDD-28070E182C47}|Master_C#_Programming\\Master_C#_Programming.csproj|solutionrelative:master_c#_programming\\regex\\lesson5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D28AA16-EDE9-4EDA-AEDD-28070E182C47}|Master_C#_Programming\\Master_C#_Programming.csproj|c:\\users\\84339\\source\\repos\\master_c#_programming\\master_c#_programming\\regex\\lesson4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7D28AA16-EDE9-4EDA-AEDD-28070E182C47}|Master_C#_Programming\\Master_C#_Programming.csproj|C:\\Users\\84339\\source\\repos\\Master_C#_Programming\\master_c#_programming\\regex\\lesson6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D28AA16-EDE9-4EDA-AEDD-28070E182C47}|Master_C#_Programming\\Master_C#_Programming.csproj|solutionrelative:master_c#_programming\\regex\\lesson6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D28AA16-EDE9-4EDA-AEDD-28070E182C47}|Master_C#_Programming\\Master_C#_Programming.csproj|C:\\Users\\84339\\source\\repos\\Master_C#_Programming\\master_c#_programming\\exception\\lesson1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D28AA16-EDE9-4EDA-AEDD-28070E182C47}|Master_C#_Programming\\Master_C#_Programming.csproj|solutionrelative:master_c#_programming\\exception\\lesson1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D28AA16-EDE9-4EDA-AEDD-28070E182C47}|Master_C#_Programming\\Master_C#_Programming.csproj|C:\\Users\\84339\\source\\repos\\Master_C#_Programming\\master_c#_programming\\regex\\lesson4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D28AA16-EDE9-4EDA-AEDD-28070E182C47}|Master_C#_Programming\\Master_C#_Programming.csproj|solutionrelative:master_c#_programming\\regex\\lesson4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D28AA16-EDE9-4EDA-AEDD-28070E182C47}|Master_C#_Programming\\Master_C#_Programming.csproj|c:\\users\\84339\\source\\repos\\master_c#_programming\\master_c#_programming\\regex\\lesson3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7D28AA16-EDE9-4EDA-AEDD-28070E182C47}|Master_C#_Programming\\Master_C#_Programming.csproj|C:\\Users\\84339\\source\\repos\\Master_C#_Programming\\master_c#_programming\\regex\\lesson3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D28AA16-EDE9-4EDA-AEDD-28070E182C47}|Master_C#_Programming\\Master_C#_Programming.csproj|solutionrelative:master_c#_programming\\regex\\lesson3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D28AA16-EDE9-4EDA-AEDD-28070E182C47}|Master_C#_Programming\\Master_C#_Programming.csproj|c:\\users\\84339\\source\\repos\\master_c#_programming\\master_c#_programming\\regex\\lesson2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7D28AA16-EDE9-4EDA-AEDD-28070E182C47}|Master_C#_Programming\\Master_C#_Programming.csproj|C:\\Users\\84339\\source\\repos\\Master_C#_Programming\\master_c#_programming\\regex\\lesson2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D28AA16-EDE9-4EDA-AEDD-28070E182C47}|Master_C#_Programming\\Master_C#_Programming.csproj|solutionrelative:master_c#_programming\\regex\\lesson2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -43,6 +63,69 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Lesson3.cs",
+              "DocumentMoniker": "C:\\Users\\84339\\source\\repos\\Master_C#_Programming\\LearnDateTime\\Lesson3.cs",
+              "RelativeDocumentMoniker": "LearnDateTime\\Lesson3.cs",
+              "ToolTip": "C:\\Users\\84339\\source\\repos\\Master_C#_Programming\\LearnDateTime\\Lesson3.cs",
+              "RelativeToolTip": "LearnDateTime\\Lesson3.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAC8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T12:06:30.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Lesson2.cs",
+              "DocumentMoniker": "C:\\Users\\84339\\source\\repos\\Master_C#_Programming\\LearnDateTime\\Lesson2.cs",
+              "RelativeDocumentMoniker": "LearnDateTime\\Lesson2.cs",
+              "ToolTip": "C:\\Users\\84339\\source\\repos\\Master_C#_Programming\\LearnDateTime\\Lesson2.cs",
+              "RelativeToolTip": "LearnDateTime\\Lesson2.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAYwBoAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T17:40:23.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Lesson1.cs",
+              "DocumentMoniker": "C:\\Users\\84339\\source\\repos\\Master_C#_Programming\\LearnDateTime\\Lesson1.cs",
+              "RelativeDocumentMoniker": "LearnDateTime\\Lesson1.cs",
+              "ToolTip": "C:\\Users\\84339\\source\\repos\\Master_C#_Programming\\LearnDateTime\\Lesson1.cs",
+              "RelativeToolTip": "LearnDateTime\\Lesson1.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAnwCwAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T17:29:13.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Lesson2.cs",
+              "DocumentMoniker": "C:\\Users\\84339\\source\\repos\\Master_C#_Programming\\Master_C#_Programming\\exception\\Lesson2.cs",
+              "RelativeDocumentMoniker": "Master_C#_Programming\\exception\\Lesson2.cs",
+              "ToolTip": "C:\\Users\\84339\\source\\repos\\Master_C#_Programming\\Master_C#_Programming\\exception\\Lesson2.cs",
+              "RelativeToolTip": "Master_C#_Programming\\exception\\Lesson2.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAYwD0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T17:37:12.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Lesson1.cs",
+              "DocumentMoniker": "C:\\Users\\84339\\source\\repos\\Master_C#_Programming\\Master_C#_Programming\\exception\\Lesson1.cs",
+              "RelativeDocumentMoniker": "Master_C#_Programming\\exception\\Lesson1.cs",
+              "ToolTip": "C:\\Users\\84339\\source\\repos\\Master_C#_Programming\\Master_C#_Programming\\exception\\Lesson1.cs",
+              "RelativeToolTip": "Master_C#_Programming\\exception\\Lesson1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T12:21:07.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Lesson6.cs",
               "DocumentMoniker": "C:\\Users\\84339\\source\\repos\\Master_C#_Programming\\Master_C#_Programming\\regex\\Lesson6.cs",
               "RelativeDocumentMoniker": "Master_C#_Programming\\regex\\Lesson6.cs",
@@ -50,25 +133,23 @@
               "RelativeToolTip": "Master_C#_Programming\\regex\\Lesson6.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAAwA8AAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-06T11:03:55.5Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-06T11:03:55.5Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Lesson5.cs",
               "DocumentMoniker": "C:\\Users\\84339\\source\\repos\\Master_C#_Programming\\Master_C#_Programming\\regex\\Lesson5.cs",
               "RelativeDocumentMoniker": "Master_C#_Programming\\regex\\Lesson5.cs",
               "ToolTip": "C:\\Users\\84339\\source\\repos\\Master_C#_Programming\\Master_C#_Programming\\regex\\Lesson5.cs",
               "RelativeToolTip": "Master_C#_Programming\\regex\\Lesson5.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwB4AAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBEAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-06T10:46:29.292Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-06T10:46:29.292Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "Lesson4.cs",
               "DocumentMoniker": "C:\\Users\\84339\\source\\repos\\Master_C#_Programming\\Master_C#_Programming\\regex\\Lesson4.cs",
               "RelativeDocumentMoniker": "Master_C#_Programming\\regex\\Lesson4.cs",
@@ -76,12 +157,11 @@
               "RelativeToolTip": "Master_C#_Programming\\regex\\Lesson4.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAAwA0AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-06T10:11:20.557Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-06T10:11:20.557Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "Lesson3.cs",
               "DocumentMoniker": "C:\\Users\\84339\\source\\repos\\Master_C#_Programming\\Master_C#_Programming\\regex\\Lesson3.cs",
               "RelativeDocumentMoniker": "Master_C#_Programming\\regex\\Lesson3.cs",
@@ -89,12 +169,11 @@
               "RelativeToolTip": "Master_C#_Programming\\regex\\Lesson3.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAAwBYAAABXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-06T09:31:44.057Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-06T09:31:44.057Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "Lesson2.cs",
               "DocumentMoniker": "C:\\Users\\84339\\source\\repos\\Master_C#_Programming\\Master_C#_Programming\\regex\\Lesson2.cs",
               "RelativeDocumentMoniker": "Master_C#_Programming\\regex\\Lesson2.cs",
@@ -102,12 +181,11 @@
               "RelativeToolTip": "Master_C#_Programming\\regex\\Lesson2.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAewB4AAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-06T08:25:19.394Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-06T08:25:19.394Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "Lesson1.cs",
               "DocumentMoniker": "C:\\Users\\84339\\source\\repos\\Master_C#_Programming\\Master_C#_Programming\\regex\\Lesson1.cs",
               "RelativeDocumentMoniker": "Master_C#_Programming\\regex\\Lesson1.cs",

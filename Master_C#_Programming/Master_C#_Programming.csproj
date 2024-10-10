@@ -99,6 +99,8 @@
     <None Include="class_and_object-oriented\Lesson13.cs" />
     <None Include="class_and_object-oriented\Lesson14.cs" />
     <None Include="basic_data_structures\Lesson9.cs" />
+    <None Include="exception\Lesson1.cs" />
+    <None Include="exception\Lesson2.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
