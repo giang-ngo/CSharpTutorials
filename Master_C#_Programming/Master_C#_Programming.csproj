@@ -33,6 +33,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.13.0.3\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -43,6 +46,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="packages.config" />
     <None Include="regex\Lesson6.cs" />
     <None Include="regex\Lesson5.cs" />
     <None Include="regex\Lesson4.cs" />
@@ -101,11 +105,28 @@
     <None Include="basic_data_structures\Lesson9.cs" />
     <None Include="exception\Lesson1.cs" />
     <None Include="exception\Lesson2.cs" />
+    <None Include="file&amp;folder\Lesson1.cs" />
+    <None Include="file&amp;folder\Lesson2.cs" />
+    <None Include="file&amp;folder\TestConnection.cs" />
+    <None Include="file&amp;folder\Lesson3.cs" />
+    <Compile Include="file&amp;folder\DBUtils.cs" />
+    <None Include="file&amp;folder\Lesson4.cs" />
+    <None Include="file&amp;folder\Lesson5.cs" />
+    <None Include="file&amp;folder\Lesson6.cs" />
+    <None Include="file&amp;folder\Lesson7.cs" />
+    <None Include="file&amp;folder\Lesson8.cs" />
+    <None Include="file&amp;folder\Lesson9.cs" />
+    <None Include="file&amp;folder\Lesson10.cs" />
+    <None Include="file&amp;folder\ExercisesSQL.cs" />
+    <Compile Include="file&amp;folder\Person.cs" />
+    <Compile Include="file&amp;folder\Student.cs" />
+    <Compile Include="file&amp;folder\Subject.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <PropertyGroup>
     <LangVersion>12.0</LangVersion>

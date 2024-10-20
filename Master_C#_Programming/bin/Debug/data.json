@@ -1,0 +1,196 @@
+{
+  "students": [
+    {
+      "id": "SV101",
+      "age": 20,
+      "major": "CNTT",
+      "gpa": 3.25,
+      "fullname": {
+        "first": "Hoàng",
+        "last": "Nguyễn",
+        "mid": "Đình"
+      },
+      "address": {
+        "wards": "Bến Nghé",
+        "district": "Quận 1",
+        "city": "Sài Gòn"
+      }
+    },
+    {
+      "id": "SV102",
+      "age": 21,
+      "major": "CNTT",
+      "gpa": 3.45,
+      "fullname": {
+        "first": "Lâm",
+        "last": "Văn",
+        "mid": "Tiến"
+      },
+      "address": {
+        "wards": "Tân Định",
+        "district": "Quận 1",
+        "city": "Sài Gòn"
+      }
+    },
+    {
+      "id": "SV103",
+      "age": 24,
+      "major": "CNTT",
+      "gpa": 3.75,
+      "fullname": {
+        "first": "Mạnh",
+        "last": "Lưu",
+        "mid": "Thế"
+      },
+      "address": {
+        "wards": "Phường 7",
+        "district": "Quận 3",
+        "city": "Sài Gòn"
+      }
+    },
+    {
+      "id": "SV104",
+      "age": 21,
+      "major": "CNTT",
+      "gpa": 3.15,
+      "fullname": {
+        "first": "Bình",
+        "last": "Lưu",
+        "mid": "Đức"
+      },
+      "address": {
+        "wards": "Phường 5",
+        "district": "Quận 10",
+        "city": "Sài Gòn"
+      }
+    },
+    {
+      "id": "SV105",
+      "age": 20,
+      "major": "CNTT",
+      "gpa": 3.15,
+      "fullname": {
+        "first": "Mai",
+        "last": "Đinh",
+        "mid": "Thị"
+      },
+      "address": {
+        "wards": "Phường 2",
+        "district": "Quận Tân Bình",
+        "city": "Sài Gòn"
+      }
+    },
+    {
+      "id": "SV106",
+      "age": 22,
+      "major": "CNTT",
+      "gpa": 3.50,
+      "fullname": {
+        "first": "Hà",
+        "last": "Trần",
+        "mid": "Anh"
+      },
+      "address": {
+        "wards": "Phường 6",
+        "district": "Quận 5",
+        "city": "Sài Gòn"
+      }
+    },
+    {
+      "id": "SV107",
+      "age": 23,
+      "major": "Kinh Tế",
+      "gpa": 3.80,
+      "fullname": {
+        "first": "Vinh",
+        "last": "Nguyễn",
+        "mid": "Xuân"
+      },
+      "address": {
+        "wards": "Phường 10",
+        "district": "Quận 6",
+        "city": "Sài Gòn"
+      }
+    },
+    {
+      "id": "SV108",
+      "age": 21,
+      "major": "Toán Tin",
+      "gpa": 3.60,
+      "fullname": {
+        "first": "Minh",
+        "last": "Phạm",
+        "mid": "Quang"
+      },
+      "address": {
+        "wards": "Phường 3",
+        "district": "Quận 4",
+        "city": "Sài Gòn"
+      }
+    },
+    {
+      "id": "SV109",
+      "age": 22,
+      "major": "Vật Lý",
+      "gpa": 3.20,
+      "fullname": {
+        "first": "Hùng",
+        "last": "Đỗ",
+        "mid": "Thanh"
+      },
+      "address": {
+        "wards": "Phường 8",
+        "district": "Quận 8",
+        "city": "Sài Gòn"
+      }
+    },
+    {
+      "id": "SV110",
+      "age": 23,
+      "major": "Hóa Học",
+      "gpa": 3.95,
+      "fullname": {
+        "first": "Phương",
+        "last": "Nguyễn",
+        "mid": "Văn"
+      },
+      "address": {
+        "wards": "Phường 9",
+        "district": "Quận 7",
+        "city": "Sài Gòn"
+      }
+    },
+    {
+      "id": "SV111",
+      "age": 20,
+      "major": "Kỹ Thuật",
+      "gpa": 3.30,
+      "fullname": {
+        "first": "Tú",
+        "last": "Lê",
+        "mid": "Ngọc"
+      },
+      "address": {
+        "wards": "Phường 12",
+        "district": "Quận 10",
+        "city": "Sài Gòn"
+      }
+    },
+    {
+      "id": "SV112",
+      "age": 22,
+      "major": "CNTT",
+      "gpa": 3.65,
+      "fullname": {
+        "first": "Quang",
+        "last": "Phạm",
+        "mid": "Hải"
+      },
+      "address": {
+        "wards": "Phường 14",
+        "district": "Quận 11",
+        "city": "Sài Gòn"
+      }
+    }
+  ]
+}

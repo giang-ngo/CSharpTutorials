@@ -1,0 +1,16 @@
+C:\Users\84339\source\repos\Master_C#_Programming\TestSQLite\bin\Debug\TestSQLite.exe.config
+C:\Users\84339\source\repos\Master_C#_Programming\TestSQLite\bin\Debug\TestSQLite.exe
+C:\Users\84339\source\repos\Master_C#_Programming\TestSQLite\bin\Debug\TestSQLite.pdb
+C:\Users\84339\source\repos\Master_C#_Programming\TestSQLite\bin\Debug\EntityFramework.dll
+C:\Users\84339\source\repos\Master_C#_Programming\TestSQLite\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\84339\source\repos\Master_C#_Programming\TestSQLite\bin\Debug\System.Data.SQLite.dll
+C:\Users\84339\source\repos\Master_C#_Programming\TestSQLite\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\84339\source\repos\Master_C#_Programming\TestSQLite\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\84339\source\repos\Master_C#_Programming\TestSQLite\bin\Debug\EntityFramework.xml
+C:\Users\84339\source\repos\Master_C#_Programming\TestSQLite\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\84339\source\repos\Master_C#_Programming\TestSQLite\bin\Debug\System.Data.SQLite.xml
+C:\Users\84339\source\repos\Master_C#_Programming\TestSQLite\obj\Debug\TestSQLite.csproj.AssemblyReference.cache
+C:\Users\84339\source\repos\Master_C#_Programming\TestSQLite\obj\Debug\TestSQLite.csproj.CoreCompileInputs.cache
+C:\Users\84339\source\repos\Master_C#_Programming\TestSQLite\obj\Debug\TestSQLite.csproj.Up2Date
+C:\Users\84339\source\repos\Master_C#_Programming\TestSQLite\obj\Debug\TestSQLite.exe
+C:\Users\84339\source\repos\Master_C#_Programming\TestSQLite\obj\Debug\TestSQLite.pdb

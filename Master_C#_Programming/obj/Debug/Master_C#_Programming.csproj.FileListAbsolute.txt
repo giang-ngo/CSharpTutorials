@@ -5,3 +5,6 @@ C:\Users\84339\source\repos\Master_C#_Programming\Master_C#_Programming\bin\Debu
 C:\Users\84339\source\repos\Master_C#_Programming\Master_C#_Programming\bin\Debug\Master_C#_Programming.pdb
 C:\Users\84339\source\repos\Master_C#_Programming\Master_C#_Programming\obj\Debug\Master_C#_Programming.exe
 C:\Users\84339\source\repos\Master_C#_Programming\Master_C#_Programming\obj\Debug\Master_C#_Programming.pdb
+C:\Users\84339\source\repos\Master_C#_Programming\Master_C#_Programming\bin\Debug\Newtonsoft.Json.dll
+C:\Users\84339\source\repos\Master_C#_Programming\Master_C#_Programming\bin\Debug\Newtonsoft.Json.xml
+C:\Users\84339\source\repos\Master_C#_Programming\Master_C#_Programming\obj\Debug\Master_C.D54E3BA9.Up2Date

@@ -1,0 +1,84 @@
+{
+  "students": [
+    {
+      "Id": "SV101",
+      "Age": 20,
+      "Major": "CNTT",
+      "Gpa": 3.25,
+      "FullName": {
+        "first": "Hoàng",
+        "last": "Trần",
+        "mid": "Đình"
+      },
+      "Address": {
+        "wards": "Phú Nhuận",
+        "district": "Phú Nhuận",
+        "city": "TP. Hồ Chí Minh"
+      }
+    },
+    {
+      "Id": "SV102",
+      "Age": 21,
+      "Major": "CNTT",
+      "Gpa": 3.45,
+      "FullName": {
+        "first": "Lâm",
+        "last": "Nguyễn",
+        "mid": "Tiến"
+      },
+      "Address": {
+        "wards": "Tân Bình",
+        "district": "Tân Bình",
+        "city": "TP. Hồ Chí Minh"
+      }
+    },
+    {
+      "Id": "SV103",
+      "Age": 24,
+      "Major": "CNTT",
+      "Gpa": 3.75,
+      "FullName": {
+        "first": "Mạnh",
+        "last": "Phạm",
+        "mid": "Thế"
+      },
+      "Address": {
+        "wards": "Quận 1",
+        "district": "Quận 1",
+        "city": "TP. Hồ Chí Minh"
+      }
+    },
+    {
+      "Id": "SV104",
+      "Age": 21,
+      "Major": "CNTT",
+      "Gpa": 3.15,
+      "FullName": {
+        "first": "Bình",
+        "last": "Lê",
+        "mid": "Đức"
+      },
+      "Address": {
+        "wards": "Bình Thạnh",
+        "district": "Bình Thạnh",
+        "city": "TP. Hồ Chí Minh"
+      }
+    },
+    {
+      "Id": "SV105",
+      "Age": 20,
+      "Major": "CNTT",
+      "Gpa": 3.15,
+      "FullName": {
+        "first": "Mai",
+        "last": "Phan",
+        "mid": "Thị"
+      },
+      "Address": {
+        "wards": "Quận 3",
+        "district": "Quận 3",
+        "city": "TP. Hồ Chí Minh"
+      }
+    }
+  ]
+}
