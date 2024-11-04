@@ -12,6 +12,7 @@
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
+    <LangVersion>12.0</LangVersion>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -121,6 +122,21 @@
     <Compile Include="file&amp;folder\Person.cs" />
     <Compile Include="file&amp;folder\Student.cs" />
     <Compile Include="file&amp;folder\Subject.cs" />
+    <None Include="generic\Lesson1.cs" />
+    <None Include="generic\Lesson2.cs" />
+    <None Include="generic\Lesson3.cs" />
+    <None Include="generic\Lesson4.cs" />
+    <None Include="generic\Lesson5.cs" />
+    <None Include="generic\Lesson6.cs" />
+    <None Include="generic\Lesson7.cs" />
+    <None Include="generic\Lesson8.cs" />
+    <None Include="generic\Lesson9.cs" />
+    <None Include="generic\Lesson10.cs" />
+    <None Include="generic\Lesson11.cs" />
+    <None Include="generic\Lesson12.cs" />
+    <None Include="generic\Lesson13.cs" />
+    <None Include="generic\Lesson14.cs" />
+    <None Include="generic\Lesson15.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
