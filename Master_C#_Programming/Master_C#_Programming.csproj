@@ -137,6 +137,22 @@
     <None Include="generic\Lesson13.cs" />
     <None Include="generic\Lesson14.cs" />
     <None Include="generic\Lesson15.cs" />
+    <None Include="linq\Lesson1.cs" />
+    <None Include="linq\Lesson2.cs" />
+    <None Include="linq\Lesson3.cs" />
+    <None Include="linq\Lesson4.cs" />
+    <None Include="linq\Lesson5.cs" />
+    <None Include="linq\Lesson6.cs" />
+    <None Include="linq\Lesson7.cs" />
+    <None Include="linq\Lesson8.cs" />
+    <None Include="linq\Lesson9.cs" />
+    <None Include="linq\Lesson10.cs" />
+    <None Include="linq\Lesson11.cs" />
+    <None Include="linq\Lesson12.cs" />
+    <None Include="linq\Lesson13.cs" />
+    <None Include="linq\Lesson14.cs" />
+    <None Include="linq\Lesson15.cs" />
+    <None Include="linq\Student.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

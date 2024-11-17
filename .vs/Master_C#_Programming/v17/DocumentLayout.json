@@ -3,35 +3,99 @@
   "WorkspaceRootPath": "C:\\Users\\84339\\source\\repos\\Master_C#_Programming\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7D28AA16-EDE9-4EDA-AEDD-28070E182C47}|Master_C#_Programming\\Master_C#_Programming.csproj|c:\\users\\84339\\source\\repos\\master_c#_programming\\master_c#_programming\\generic\\lesson12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D28AA16-EDE9-4EDA-AEDD-28070E182C47}|Master_C#_Programming\\Master_C#_Programming.csproj|solutionrelative:master_c#_programming\\generic\\lesson12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7D28AA16-EDE9-4EDA-AEDD-28070E182C47}|Master_C#_Programming\\Master_C#_Programming.csproj|C:\\Users\\84339\\source\\repos\\Master_C#_Programming\\master_c#_programming\\linq\\lesson5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D28AA16-EDE9-4EDA-AEDD-28070E182C47}|Master_C#_Programming\\Master_C#_Programming.csproj|solutionrelative:master_c#_programming\\linq\\lesson5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D28AA16-EDE9-4EDA-AEDD-28070E182C47}|Master_C#_Programming\\Master_C#_Programming.csproj|c:\\users\\84339\\source\\repos\\master_c#_programming\\master_c#_programming\\generic\\lesson13.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7D28AA16-EDE9-4EDA-AEDD-28070E182C47}|Master_C#_Programming\\Master_C#_Programming.csproj|C:\\Users\\84339\\source\\repos\\Master_C#_Programming\\master_c#_programming\\linq\\lesson4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D28AA16-EDE9-4EDA-AEDD-28070E182C47}|Master_C#_Programming\\Master_C#_Programming.csproj|solutionrelative:master_c#_programming\\linq\\lesson4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D28AA16-EDE9-4EDA-AEDD-28070E182C47}|Master_C#_Programming\\Master_C#_Programming.csproj|C:\\Users\\84339\\source\\repos\\Master_C#_Programming\\master_c#_programming\\linq\\lesson3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D28AA16-EDE9-4EDA-AEDD-28070E182C47}|Master_C#_Programming\\Master_C#_Programming.csproj|solutionrelative:master_c#_programming\\linq\\lesson3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D28AA16-EDE9-4EDA-AEDD-28070E182C47}|Master_C#_Programming\\Master_C#_Programming.csproj|C:\\Users\\84339\\source\\repos\\Master_C#_Programming\\master_c#_programming\\linq\\lesson2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D28AA16-EDE9-4EDA-AEDD-28070E182C47}|Master_C#_Programming\\Master_C#_Programming.csproj|solutionrelative:master_c#_programming\\linq\\lesson2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D28AA16-EDE9-4EDA-AEDD-28070E182C47}|Master_C#_Programming\\Master_C#_Programming.csproj|c:\\users\\84339\\source\\repos\\master_c#_programming\\master_c#_programming\\linq\\lesson15.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D28AA16-EDE9-4EDA-AEDD-28070E182C47}|Master_C#_Programming\\Master_C#_Programming.csproj|solutionrelative:master_c#_programming\\linq\\lesson15.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D28AA16-EDE9-4EDA-AEDD-28070E182C47}|Master_C#_Programming\\Master_C#_Programming.csproj|c:\\users\\84339\\source\\repos\\master_c#_programming\\master_c#_programming\\linq\\lesson14.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D28AA16-EDE9-4EDA-AEDD-28070E182C47}|Master_C#_Programming\\Master_C#_Programming.csproj|solutionrelative:master_c#_programming\\linq\\lesson14.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D28AA16-EDE9-4EDA-AEDD-28070E182C47}|Master_C#_Programming\\Master_C#_Programming.csproj|c:\\users\\84339\\source\\repos\\master_c#_programming\\master_c#_programming\\linq\\lesson13.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D28AA16-EDE9-4EDA-AEDD-28070E182C47}|Master_C#_Programming\\Master_C#_Programming.csproj|solutionrelative:master_c#_programming\\linq\\lesson13.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D28AA16-EDE9-4EDA-AEDD-28070E182C47}|Master_C#_Programming\\Master_C#_Programming.csproj|c:\\users\\84339\\source\\repos\\master_c#_programming\\master_c#_programming\\linq\\lesson12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D28AA16-EDE9-4EDA-AEDD-28070E182C47}|Master_C#_Programming\\Master_C#_Programming.csproj|solutionrelative:master_c#_programming\\linq\\lesson12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D28AA16-EDE9-4EDA-AEDD-28070E182C47}|Master_C#_Programming\\Master_C#_Programming.csproj|c:\\users\\84339\\source\\repos\\master_c#_programming\\master_c#_programming\\linq\\lesson11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D28AA16-EDE9-4EDA-AEDD-28070E182C47}|Master_C#_Programming\\Master_C#_Programming.csproj|solutionrelative:master_c#_programming\\linq\\lesson11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D28AA16-EDE9-4EDA-AEDD-28070E182C47}|Master_C#_Programming\\Master_C#_Programming.csproj|c:\\users\\84339\\source\\repos\\master_c#_programming\\master_c#_programming\\linq\\lesson10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D28AA16-EDE9-4EDA-AEDD-28070E182C47}|Master_C#_Programming\\Master_C#_Programming.csproj|solutionrelative:master_c#_programming\\linq\\lesson10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D28AA16-EDE9-4EDA-AEDD-28070E182C47}|Master_C#_Programming\\Master_C#_Programming.csproj|C:\\Users\\84339\\source\\repos\\Master_C#_Programming\\master_c#_programming\\linq\\lesson1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D28AA16-EDE9-4EDA-AEDD-28070E182C47}|Master_C#_Programming\\Master_C#_Programming.csproj|solutionrelative:master_c#_programming\\linq\\lesson1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D28AA16-EDE9-4EDA-AEDD-28070E182C47}|Master_C#_Programming\\Master_C#_Programming.csproj|c:\\users\\84339\\source\\repos\\master_c#_programming\\master_c#_programming\\linq\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D28AA16-EDE9-4EDA-AEDD-28070E182C47}|Master_C#_Programming\\Master_C#_Programming.csproj|solutionrelative:master_c#_programming\\linq\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D28AA16-EDE9-4EDA-AEDD-28070E182C47}|Master_C#_Programming\\Master_C#_Programming.csproj|c:\\users\\84339\\source\\repos\\master_c#_programming\\master_c#_programming\\linq\\lesson9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D28AA16-EDE9-4EDA-AEDD-28070E182C47}|Master_C#_Programming\\Master_C#_Programming.csproj|solutionrelative:master_c#_programming\\linq\\lesson9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D28AA16-EDE9-4EDA-AEDD-28070E182C47}|Master_C#_Programming\\Master_C#_Programming.csproj|c:\\users\\84339\\source\\repos\\master_c#_programming\\master_c#_programming\\linq\\lesson8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D28AA16-EDE9-4EDA-AEDD-28070E182C47}|Master_C#_Programming\\Master_C#_Programming.csproj|solutionrelative:master_c#_programming\\linq\\lesson8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D28AA16-EDE9-4EDA-AEDD-28070E182C47}|Master_C#_Programming\\Master_C#_Programming.csproj|C:\\Users\\84339\\source\\repos\\Master_C#_Programming\\master_c#_programming\\linq\\lesson7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D28AA16-EDE9-4EDA-AEDD-28070E182C47}|Master_C#_Programming\\Master_C#_Programming.csproj|solutionrelative:master_c#_programming\\linq\\lesson7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D28AA16-EDE9-4EDA-AEDD-28070E182C47}|Master_C#_Programming\\Master_C#_Programming.csproj|C:\\Users\\84339\\source\\repos\\Master_C#_Programming\\master_c#_programming\\linq\\lesson6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D28AA16-EDE9-4EDA-AEDD-28070E182C47}|Master_C#_Programming\\Master_C#_Programming.csproj|solutionrelative:master_c#_programming\\linq\\lesson6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D28AA16-EDE9-4EDA-AEDD-28070E182C47}|Master_C#_Programming\\Master_C#_Programming.csproj|C:\\Users\\84339\\source\\repos\\Master_C#_Programming\\master_c#_programming\\generic\\lesson13.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D28AA16-EDE9-4EDA-AEDD-28070E182C47}|Master_C#_Programming\\Master_C#_Programming.csproj|solutionrelative:master_c#_programming\\generic\\lesson13.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D28AA16-EDE9-4EDA-AEDD-28070E182C47}|Master_C#_Programming\\Master_C#_Programming.csproj|c:\\users\\84339\\source\\repos\\master_c#_programming\\master_c#_programming\\generic\\lesson14.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D28AA16-EDE9-4EDA-AEDD-28070E182C47}|Master_C#_Programming\\Master_C#_Programming.csproj|solutionrelative:master_c#_programming\\generic\\lesson14.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D28AA16-EDE9-4EDA-AEDD-28070E182C47}|Master_C#_Programming\\Master_C#_Programming.csproj|c:\\users\\84339\\source\\repos\\master_c#_programming\\master_c#_programming\\generic\\lesson15.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7D28AA16-EDE9-4EDA-AEDD-28070E182C47}|Master_C#_Programming\\Master_C#_Programming.csproj|C:\\Users\\84339\\source\\repos\\Master_C#_Programming\\master_c#_programming\\generic\\lesson15.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D28AA16-EDE9-4EDA-AEDD-28070E182C47}|Master_C#_Programming\\Master_C#_Programming.csproj|solutionrelative:master_c#_programming\\generic\\lesson15.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D28AA16-EDE9-4EDA-AEDD-28070E182C47}|Master_C#_Programming\\Master_C#_Programming.csproj|c:\\users\\84339\\source\\repos\\master_c#_programming\\master_c#_programming\\generic\\lesson11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7D28AA16-EDE9-4EDA-AEDD-28070E182C47}|Master_C#_Programming\\Master_C#_Programming.csproj|C:\\Users\\84339\\source\\repos\\Master_C#_Programming\\master_c#_programming\\generic\\lesson12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D28AA16-EDE9-4EDA-AEDD-28070E182C47}|Master_C#_Programming\\Master_C#_Programming.csproj|solutionrelative:master_c#_programming\\generic\\lesson12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D28AA16-EDE9-4EDA-AEDD-28070E182C47}|Master_C#_Programming\\Master_C#_Programming.csproj|C:\\Users\\84339\\source\\repos\\Master_C#_Programming\\master_c#_programming\\generic\\lesson14.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D28AA16-EDE9-4EDA-AEDD-28070E182C47}|Master_C#_Programming\\Master_C#_Programming.csproj|solutionrelative:master_c#_programming\\generic\\lesson14.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D28AA16-EDE9-4EDA-AEDD-28070E182C47}|Master_C#_Programming\\Master_C#_Programming.csproj|C:\\Users\\84339\\source\\repos\\Master_C#_Programming\\master_c#_programming\\generic\\lesson11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D28AA16-EDE9-4EDA-AEDD-28070E182C47}|Master_C#_Programming\\Master_C#_Programming.csproj|solutionrelative:master_c#_programming\\generic\\lesson11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D28AA16-EDE9-4EDA-AEDD-28070E182C47}|Master_C#_Programming\\Master_C#_Programming.csproj|c:\\users\\84339\\source\\repos\\master_c#_programming\\master_c#_programming\\generic\\lesson10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7D28AA16-EDE9-4EDA-AEDD-28070E182C47}|Master_C#_Programming\\Master_C#_Programming.csproj|C:\\Users\\84339\\source\\repos\\Master_C#_Programming\\master_c#_programming\\generic\\lesson10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D28AA16-EDE9-4EDA-AEDD-28070E182C47}|Master_C#_Programming\\Master_C#_Programming.csproj|solutionrelative:master_c#_programming\\generic\\lesson10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D28AA16-EDE9-4EDA-AEDD-28070E182C47}|Master_C#_Programming\\Master_C#_Programming.csproj|c:\\users\\84339\\source\\repos\\master_c#_programming\\master_c#_programming\\generic\\lesson9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7D28AA16-EDE9-4EDA-AEDD-28070E182C47}|Master_C#_Programming\\Master_C#_Programming.csproj|C:\\Users\\84339\\source\\repos\\Master_C#_Programming\\master_c#_programming\\generic\\lesson9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D28AA16-EDE9-4EDA-AEDD-28070E182C47}|Master_C#_Programming\\Master_C#_Programming.csproj|solutionrelative:master_c#_programming\\generic\\lesson9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D28AA16-EDE9-4EDA-AEDD-28070E182C47}|Master_C#_Programming\\Master_C#_Programming.csproj|c:\\users\\84339\\source\\repos\\master_c#_programming\\master_c#_programming\\generic\\lesson8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7D28AA16-EDE9-4EDA-AEDD-28070E182C47}|Master_C#_Programming\\Master_C#_Programming.csproj|C:\\Users\\84339\\source\\repos\\Master_C#_Programming\\master_c#_programming\\generic\\lesson8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D28AA16-EDE9-4EDA-AEDD-28070E182C47}|Master_C#_Programming\\Master_C#_Programming.csproj|solutionrelative:master_c#_programming\\generic\\lesson8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -62,7 +126,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Bookmark",
@@ -70,20 +134,227 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Lesson15.cs",
-              "DocumentMoniker": "C:\\Users\\84339\\source\\repos\\Master_C#_Programming\\Master_C#_Programming\\generic\\Lesson15.cs",
-              "RelativeDocumentMoniker": "Master_C#_Programming\\generic\\Lesson15.cs",
-              "ToolTip": "C:\\Users\\84339\\source\\repos\\Master_C#_Programming\\Master_C#_Programming\\generic\\Lesson15.cs",
-              "RelativeToolTip": "Master_C#_Programming\\generic\\Lesson15.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAqwDgAAAAJAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\84339\\source\\repos\\Master_C#_Programming\\Master_C#_Programming\\linq\\Lesson15.cs",
+              "RelativeDocumentMoniker": "Master_C#_Programming\\linq\\Lesson15.cs",
+              "ToolTip": "C:\\Users\\84339\\source\\repos\\Master_C#_Programming\\Master_C#_Programming\\linq\\Lesson15.cs",
+              "RelativeToolTip": "Master_C#_Programming\\linq\\Lesson15.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T12:20:39.956Z",
+              "WhenOpened": "2024-11-17T16:52:45.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Lesson14.cs",
+              "DocumentMoniker": "C:\\Users\\84339\\source\\repos\\Master_C#_Programming\\Master_C#_Programming\\linq\\Lesson14.cs",
+              "RelativeDocumentMoniker": "Master_C#_Programming\\linq\\Lesson14.cs",
+              "ToolTip": "C:\\Users\\84339\\source\\repos\\Master_C#_Programming\\Master_C#_Programming\\linq\\Lesson14.cs",
+              "RelativeToolTip": "Master_C#_Programming\\linq\\Lesson14.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAQwCYAAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T16:27:15.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Lesson13.cs",
+              "DocumentMoniker": "C:\\Users\\84339\\source\\repos\\Master_C#_Programming\\Master_C#_Programming\\linq\\Lesson13.cs",
+              "RelativeDocumentMoniker": "Master_C#_Programming\\linq\\Lesson13.cs",
+              "ToolTip": "C:\\Users\\84339\\source\\repos\\Master_C#_Programming\\Master_C#_Programming\\linq\\Lesson13.cs",
+              "RelativeToolTip": "Master_C#_Programming\\linq\\Lesson13.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAwwFkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T14:58:34.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Lesson12.cs",
+              "DocumentMoniker": "C:\\Users\\84339\\source\\repos\\Master_C#_Programming\\Master_C#_Programming\\linq\\Lesson12.cs",
+              "RelativeDocumentMoniker": "Master_C#_Programming\\linq\\Lesson12.cs",
+              "ToolTip": "C:\\Users\\84339\\source\\repos\\Master_C#_Programming\\Master_C#_Programming\\linq\\Lesson12.cs",
+              "RelativeToolTip": "Master_C#_Programming\\linq\\Lesson12.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAQwA4AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T14:24:15.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Lesson10.cs",
+              "DocumentMoniker": "C:\\Users\\84339\\source\\repos\\Master_C#_Programming\\Master_C#_Programming\\linq\\Lesson10.cs",
+              "RelativeDocumentMoniker": "Master_C#_Programming\\linq\\Lesson10.cs",
+              "ToolTip": "C:\\Users\\84339\\source\\repos\\Master_C#_Programming\\Master_C#_Programming\\linq\\Lesson10.cs",
+              "RelativeToolTip": "Master_C#_Programming\\linq\\Lesson10.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T13:25:51.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Lesson11.cs",
+              "DocumentMoniker": "C:\\Users\\84339\\source\\repos\\Master_C#_Programming\\Master_C#_Programming\\linq\\Lesson11.cs",
+              "RelativeDocumentMoniker": "Master_C#_Programming\\linq\\Lesson11.cs",
+              "ToolTip": "C:\\Users\\84339\\source\\repos\\Master_C#_Programming\\Master_C#_Programming\\linq\\Lesson11.cs",
+              "RelativeToolTip": "Master_C#_Programming\\linq\\Lesson11.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T13:42:22.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Lesson1.cs",
+              "DocumentMoniker": "C:\\Users\\84339\\source\\repos\\Master_C#_Programming\\Master_C#_Programming\\linq\\Lesson1.cs",
+              "RelativeDocumentMoniker": "Master_C#_Programming\\linq\\Lesson1.cs",
+              "ToolTip": "C:\\Users\\84339\\source\\repos\\Master_C#_Programming\\Master_C#_Programming\\linq\\Lesson1.cs",
+              "RelativeToolTip": "Master_C#_Programming\\linq\\Lesson1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T18:38:28.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Lesson2.cs",
+              "DocumentMoniker": "C:\\Users\\84339\\source\\repos\\Master_C#_Programming\\Master_C#_Programming\\linq\\Lesson2.cs",
+              "RelativeDocumentMoniker": "Master_C#_Programming\\linq\\Lesson2.cs",
+              "ToolTip": "C:\\Users\\84339\\source\\repos\\Master_C#_Programming\\Master_C#_Programming\\linq\\Lesson2.cs",
+              "RelativeToolTip": "Master_C#_Programming\\linq\\Lesson2.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAABoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T11:38:18.827Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Lesson3.cs",
+              "DocumentMoniker": "C:\\Users\\84339\\source\\repos\\Master_C#_Programming\\Master_C#_Programming\\linq\\Lesson3.cs",
+              "RelativeDocumentMoniker": "Master_C#_Programming\\linq\\Lesson3.cs",
+              "ToolTip": "C:\\Users\\84339\\source\\repos\\Master_C#_Programming\\Master_C#_Programming\\linq\\Lesson3.cs",
+              "RelativeToolTip": "Master_C#_Programming\\linq\\Lesson3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T13:16:24.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Lesson4.cs",
+              "DocumentMoniker": "C:\\Users\\84339\\source\\repos\\Master_C#_Programming\\Master_C#_Programming\\linq\\Lesson4.cs",
+              "RelativeDocumentMoniker": "Master_C#_Programming\\linq\\Lesson4.cs",
+              "ToolTip": "C:\\Users\\84339\\source\\repos\\Master_C#_Programming\\Master_C#_Programming\\linq\\Lesson4.cs",
+              "RelativeToolTip": "Master_C#_Programming\\linq\\Lesson4.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T14:02:39.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lesson5.cs",
+              "DocumentMoniker": "C:\\Users\\84339\\source\\repos\\Master_C#_Programming\\Master_C#_Programming\\linq\\Lesson5.cs",
+              "RelativeDocumentMoniker": "Master_C#_Programming\\linq\\Lesson5.cs",
+              "ToolTip": "C:\\Users\\84339\\source\\repos\\Master_C#_Programming\\Master_C#_Programming\\linq\\Lesson5.cs",
+              "RelativeToolTip": "Master_C#_Programming\\linq\\Lesson5.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAwEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T15:17:07.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\84339\\source\\repos\\Master_C#_Programming\\Master_C#_Programming\\linq\\Student.cs",
+              "RelativeDocumentMoniker": "Master_C#_Programming\\linq\\Student.cs",
+              "ToolTip": "C:\\Users\\84339\\source\\repos\\Master_C#_Programming\\Master_C#_Programming\\linq\\Student.cs",
+              "RelativeToolTip": "Master_C#_Programming\\linq\\Student.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T13:56:25.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Lesson9.cs",
+              "DocumentMoniker": "C:\\Users\\84339\\source\\repos\\Master_C#_Programming\\Master_C#_Programming\\linq\\Lesson9.cs",
+              "RelativeDocumentMoniker": "Master_C#_Programming\\linq\\Lesson9.cs",
+              "ToolTip": "C:\\Users\\84339\\source\\repos\\Master_C#_Programming\\Master_C#_Programming\\linq\\Lesson9.cs",
+              "RelativeToolTip": "Master_C#_Programming\\linq\\Lesson9.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAwwDEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T12:53:25.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Lesson8.cs",
+              "DocumentMoniker": "C:\\Users\\84339\\source\\repos\\Master_C#_Programming\\Master_C#_Programming\\linq\\Lesson8.cs",
+              "RelativeDocumentMoniker": "Master_C#_Programming\\linq\\Lesson8.cs",
+              "ToolTip": "C:\\Users\\84339\\source\\repos\\Master_C#_Programming\\Master_C#_Programming\\linq\\Lesson8.cs",
+              "RelativeToolTip": "Master_C#_Programming\\linq\\Lesson8.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAQwCgAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T18:17:10.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Lesson7.cs",
+              "DocumentMoniker": "C:\\Users\\84339\\source\\repos\\Master_C#_Programming\\Master_C#_Programming\\linq\\Lesson7.cs",
+              "RelativeDocumentMoniker": "Master_C#_Programming\\linq\\Lesson7.cs",
+              "ToolTip": "C:\\Users\\84339\\source\\repos\\Master_C#_Programming\\Master_C#_Programming\\linq\\Lesson7.cs",
+              "RelativeToolTip": "Master_C#_Programming\\linq\\Lesson7.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T16:38:00.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Lesson6.cs",
+              "DocumentMoniker": "C:\\Users\\84339\\source\\repos\\Master_C#_Programming\\Master_C#_Programming\\linq\\Lesson6.cs",
+              "RelativeDocumentMoniker": "Master_C#_Programming\\linq\\Lesson6.cs",
+              "ToolTip": "C:\\Users\\84339\\source\\repos\\Master_C#_Programming\\Master_C#_Programming\\linq\\Lesson6.cs",
+              "RelativeToolTip": "Master_C#_Programming\\linq\\Lesson6.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAewCkAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T15:42:50.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Lesson15.cs",
+              "DocumentMoniker": "C:\\Users\\84339\\source\\repos\\Master_C#_Programming\\Master_C#_Programming\\generic\\Lesson15.cs",
+              "RelativeDocumentMoniker": "Master_C#_Programming\\generic\\Lesson15.cs",
+              "ToolTip": "C:\\Users\\84339\\source\\repos\\Master_C#_Programming\\Master_C#_Programming\\generic\\Lesson15.cs",
+              "RelativeToolTip": "Master_C#_Programming\\generic\\Lesson15.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAqwCoAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T12:20:39.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "Lesson14.cs",
               "DocumentMoniker": "C:\\Users\\84339\\source\\repos\\Master_C#_Programming\\Master_C#_Programming\\generic\\Lesson14.cs",
               "RelativeDocumentMoniker": "Master_C#_Programming\\generic\\Lesson14.cs",
@@ -91,12 +362,11 @@
               "RelativeToolTip": "Master_C#_Programming\\generic\\Lesson14.cs",
               "ViewState": "AgIAABcAAAAAAAAAAAAiwDIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T12:20:09.74Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-04T12:20:09.74Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 16,
               "Title": "Lesson13.cs",
               "DocumentMoniker": "C:\\Users\\84339\\source\\repos\\Master_C#_Programming\\Master_C#_Programming\\generic\\Lesson13.cs",
               "RelativeDocumentMoniker": "Master_C#_Programming\\generic\\Lesson13.cs",
@@ -109,7 +379,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 18,
               "Title": "Lesson12.cs",
               "DocumentMoniker": "C:\\Users\\84339\\source\\repos\\Master_C#_Programming\\Master_C#_Programming\\generic\\Lesson12.cs",
               "RelativeDocumentMoniker": "Master_C#_Programming\\generic\\Lesson12.cs",
@@ -117,12 +387,11 @@
               "RelativeToolTip": "Master_C#_Programming\\generic\\Lesson12.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAAwCoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T12:18:58.597Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-04T12:18:58.597Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 20,
               "Title": "Lesson11.cs",
               "DocumentMoniker": "C:\\Users\\84339\\source\\repos\\Master_C#_Programming\\Master_C#_Programming\\generic\\Lesson11.cs",
               "RelativeDocumentMoniker": "Master_C#_Programming\\generic\\Lesson11.cs",
@@ -130,12 +399,11 @@
               "RelativeToolTip": "Master_C#_Programming\\generic\\Lesson11.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAQwDIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T12:18:30.153Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-04T12:18:30.153Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 21,
               "Title": "Lesson10.cs",
               "DocumentMoniker": "C:\\Users\\84339\\source\\repos\\Master_C#_Programming\\Master_C#_Programming\\generic\\Lesson10.cs",
               "RelativeDocumentMoniker": "Master_C#_Programming\\generic\\Lesson10.cs",
@@ -143,12 +411,11 @@
               "RelativeToolTip": "Master_C#_Programming\\generic\\Lesson10.cs",
               "ViewState": "AgIAABwAAAAAAAAAAAAQwBgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T11:30:23.172Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-04T11:30:23.172Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 22,
               "Title": "Lesson9.cs",
               "DocumentMoniker": "C:\\Users\\84339\\source\\repos\\Master_C#_Programming\\Master_C#_Programming\\generic\\Lesson9.cs",
               "RelativeDocumentMoniker": "Master_C#_Programming\\generic\\Lesson9.cs",
@@ -156,12 +423,11 @@
               "RelativeToolTip": "Master_C#_Programming\\generic\\Lesson9.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwBsAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T10:23:07.311Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-04T10:23:07.311Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 23,
               "Title": "Lesson8.cs",
               "DocumentMoniker": "C:\\Users\\84339\\source\\repos\\Master_C#_Programming\\Master_C#_Programming\\generic\\Lesson8.cs",
               "RelativeDocumentMoniker": "Master_C#_Programming\\generic\\Lesson8.cs",
@@ -169,12 +435,11 @@
               "RelativeToolTip": "Master_C#_Programming\\generic\\Lesson8.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-03T18:27:42.625Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-03T18:27:42.625Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 24,
               "Title": "Lesson7.cs",
               "DocumentMoniker": "C:\\Users\\84339\\source\\repos\\Master_C#_Programming\\Master_C#_Programming\\generic\\Lesson7.cs",
               "RelativeDocumentMoniker": "Master_C#_Programming\\generic\\Lesson7.cs",
@@ -186,7 +451,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 25,
               "Title": "Lesson6.cs",
               "DocumentMoniker": "C:\\Users\\84339\\source\\repos\\Master_C#_Programming\\Master_C#_Programming\\generic\\Lesson6.cs",
               "RelativeDocumentMoniker": "Master_C#_Programming\\generic\\Lesson6.cs",
@@ -198,7 +463,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 26,
               "Title": "Lesson5.cs",
               "DocumentMoniker": "C:\\Users\\84339\\source\\repos\\Master_C#_Programming\\Master_C#_Programming\\generic\\Lesson5.cs",
               "RelativeDocumentMoniker": "Master_C#_Programming\\generic\\Lesson5.cs",
@@ -210,7 +475,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 27,
               "Title": "Lesson4.cs",
               "DocumentMoniker": "C:\\Users\\84339\\source\\repos\\Master_C#_Programming\\Master_C#_Programming\\generic\\Lesson4.cs",
               "RelativeDocumentMoniker": "Master_C#_Programming\\generic\\Lesson4.cs",
@@ -222,7 +487,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 28,
               "Title": "Lesson3.cs",
               "DocumentMoniker": "C:\\Users\\84339\\source\\repos\\Master_C#_Programming\\Master_C#_Programming\\generic\\Lesson3.cs",
               "RelativeDocumentMoniker": "Master_C#_Programming\\generic\\Lesson3.cs",
