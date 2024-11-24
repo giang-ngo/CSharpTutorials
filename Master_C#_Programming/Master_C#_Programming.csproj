@@ -47,6 +47,18 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="threads\Lesson9Ex2.cs" />
+    <None Include="threads\Lesson9.cs" />
+    <None Include="threads\Lesson8Ex2.cs" />
+    <None Include="threads\Lesson8.cs" />
+    <None Include="threads\Lesson7Ex2.cs" />
+    <None Include="threads\Lesson7.cs" />
+    <None Include="threads\Lesson6.cs" />
+    <None Include="threads\Lesson5.cs" />
+    <None Include="threads\Lesson4.cs" />
+    <None Include="threads\Lesson3.cs" />
+    <None Include="threads\Lesson2.cs" />
+    <None Include="threads\Lesson1.cs" />
     <None Include="packages.config" />
     <None Include="regex\Lesson6.cs" />
     <None Include="regex\Lesson5.cs" />
@@ -110,7 +122,7 @@
     <None Include="file&amp;folder\Lesson2.cs" />
     <None Include="file&amp;folder\TestConnection.cs" />
     <None Include="file&amp;folder\Lesson3.cs" />
-    <Compile Include="file&amp;folder\DBUtils.cs" />
+    <None Include="file&amp;folder\DBUtils.cs" />
     <None Include="file&amp;folder\Lesson4.cs" />
     <None Include="file&amp;folder\Lesson5.cs" />
     <None Include="file&amp;folder\Lesson6.cs" />
@@ -119,9 +131,9 @@
     <None Include="file&amp;folder\Lesson9.cs" />
     <None Include="file&amp;folder\Lesson10.cs" />
     <None Include="file&amp;folder\ExercisesSQL.cs" />
-    <Compile Include="file&amp;folder\Person.cs" />
-    <Compile Include="file&amp;folder\Student.cs" />
-    <Compile Include="file&amp;folder\Subject.cs" />
+    <None Include="file&amp;folder\Person.cs" />
+    <None Include="file&amp;folder\Student.cs" />
+    <None Include="file&amp;folder\Subject.cs" />
     <None Include="generic\Lesson1.cs" />
     <None Include="generic\Lesson2.cs" />
     <None Include="generic\Lesson3.cs" />

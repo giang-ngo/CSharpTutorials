@@ -1,0 +1,3 @@
+Threads are the backbone of any software application. In simple terms, a thread is a single sequence of instructions that a process can execute. In C#, the System.Threading namespace offers classes that allow you to manipulate threads. When a C# program starts, it’s a single threaded process by default. This “main” thread is responsible for executing your code line by line, creating what is known as a single threaded application.
+
+Threads make it possible to execute several program pieces concurrently, enhancing the program’s efficiency. This brings us to the concept of multithreading.
