@@ -1,0 +1,10 @@
+C:\Users\84339\source\repos\Master_C#_Programming\HelloWorldForm\bin\Debug\HelloWorldForm.exe.config
+C:\Users\84339\source\repos\Master_C#_Programming\HelloWorldForm\bin\Debug\HelloWorldForm.exe
+C:\Users\84339\source\repos\Master_C#_Programming\HelloWorldForm\bin\Debug\HelloWorldForm.pdb
+C:\Users\84339\source\repos\Master_C#_Programming\HelloWorldForm\obj\Debug\HelloWorldForm.csproj.AssemblyReference.cache
+C:\Users\84339\source\repos\Master_C#_Programming\HelloWorldForm\obj\Debug\HelloWorldForm.Form1.resources
+C:\Users\84339\source\repos\Master_C#_Programming\HelloWorldForm\obj\Debug\HelloWorldForm.Properties.Resources.resources
+C:\Users\84339\source\repos\Master_C#_Programming\HelloWorldForm\obj\Debug\HelloWorldForm.csproj.GenerateResource.cache
+C:\Users\84339\source\repos\Master_C#_Programming\HelloWorldForm\obj\Debug\HelloWorldForm.csproj.CoreCompileInputs.cache
+C:\Users\84339\source\repos\Master_C#_Programming\HelloWorldForm\obj\Debug\HelloWorldForm.exe
+C:\Users\84339\source\repos\Master_C#_Programming\HelloWorldForm\obj\Debug\HelloWorldForm.pdb

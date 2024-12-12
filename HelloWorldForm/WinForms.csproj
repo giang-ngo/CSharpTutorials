@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{93280FB2-0389-4345-A817-2B4FC3BABDCC}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>HelloWorldForm</RootNamespace>
+    <AssemblyName>HelloWorldForm</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <IsWebBootstrapper>true</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Web</InstallFrom>
+    <UpdateEnabled>true</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <InstallUrl>https://braniumacademy.net/software/test1/</InstallUrl>
+    <CreateWebPageOnPublish>true</CreateWebPageOnPublish>
+    <WebPage>publish.htm</WebPage>
+    <ApplicationRevision>5</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>
+    </StartupObject>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>D3F4CF3AE2FF3C9287589CAE2CBF17F054F20680</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>WinForms_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BindingDataGridviewForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BindingDataGridviewForm.Designer.cs">
+      <DependentUpon>BindingDataGridviewForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DemoForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DemoForm.Designer.cs">
+      <DependentUpon>DemoForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HomeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HomeForm.Designer.cs">
+      <DependentUpon>HomeForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LearnButtonForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LearnButtonForm.Designer.cs">
+      <DependentUpon>LearnButtonForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LearnCheckBox_RadioButton_GroupBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LearnCheckBox_RadioButton_GroupBox.Designer.cs">
+      <DependentUpon>LearnCheckBox_RadioButton_GroupBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LearnColorDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LearnColorDialog.Designer.cs">
+      <DependentUpon>LearnColorDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LearnComboBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LearnComboBox.Designer.cs">
+      <DependentUpon>LearnComboBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LearnCSharpDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>LearnCSharpDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="LearnCustomeControls.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LearnCustomeControls.Designer.cs">
+      <DependentUpon>LearnCustomeControls.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LearnDataGridView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LearnDataGridView.Designer.cs">
+      <DependentUpon>LearnDataGridView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LearnDateTimePicker.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LearnDateTimePicker.Designer.cs">
+      <DependentUpon>LearnDateTimePicker.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LearnLabelAndTextbox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LearnLabelAndTextbox.Designer.cs">
+      <DependentUpon>LearnLabelAndTextbox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LearnListBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LearnListBox.Designer.cs">
+      <DependentUpon>LearnListBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LearnListView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LearnListView.Designer.cs">
+      <DependentUpon>LearnListView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LearnPictureBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LearnPictureBox.Designer.cs">
+      <DependentUpon>LearnPictureBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LearnProgressBar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LearnProgressBar.Designer.cs">
+      <DependentUpon>LearnProgressBar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LearnSaveFileDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LearnSaveFileDialog.Designer.cs">
+      <DependentUpon>LearnSaveFileDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginForm.Designer.cs">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Student.cs" />
+    <EmbeddedResource Include="BindingDataGridviewForm.resx">
+      <DependentUpon>BindingDataGridviewForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DemoForm.resx">
+      <DependentUpon>DemoForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HomeForm.resx">
+      <DependentUpon>HomeForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LearnButtonForm.resx">
+      <DependentUpon>LearnButtonForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LearnCheckBox_RadioButton_GroupBox.resx">
+      <DependentUpon>LearnCheckBox_RadioButton_GroupBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LearnColorDialog.resx">
+      <DependentUpon>LearnColorDialog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LearnComboBox.resx">
+      <DependentUpon>LearnComboBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LearnCustomeControls.resx">
+      <DependentUpon>LearnCustomeControls.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LearnDataGridView.resx">
+      <DependentUpon>LearnDataGridView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LearnDateTimePicker.resx">
+      <DependentUpon>LearnDateTimePicker.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LearnLabelAndTextbox.resx">
+      <DependentUpon>LearnLabelAndTextbox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LearnListBox.resx">
+      <DependentUpon>LearnListBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LearnListView.resx">
+      <DependentUpon>LearnListView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LearnPictureBox.resx">
+      <DependentUpon>LearnPictureBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LearnProgressBar.resx">
+      <DependentUpon>LearnProgressBar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LearnSaveFileDialog.resx">
+      <DependentUpon>LearnSaveFileDialog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginForm.resx">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="LearnCSharpDataSet.xsc">
+      <DependentUpon>LearnCSharpDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="LearnCSharpDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>LearnCSharpDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="LearnCSharpDataSet.xss">
+      <DependentUpon>LearnCSharpDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="WinForms_TemporaryKey.pfx" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CustomeWinformsControls\CustomeWinformsControls.csproj">
+      <Project>{74158fde-6150-4c48-b2a3-77725d41fbc8}</Project>
+      <Name>CustomeWinformsControls</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.8">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.8 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

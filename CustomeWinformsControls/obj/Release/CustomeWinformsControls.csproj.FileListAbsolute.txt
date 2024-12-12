@@ -1,0 +1,8 @@
+C:\Users\84339\source\repos\Master_C#_Programming\CustomeWinformsControls\bin\Release\CustomeWinformsControls.dll
+C:\Users\84339\source\repos\Master_C#_Programming\CustomeWinformsControls\bin\Release\CustomeWinformsControls.pdb
+C:\Users\84339\source\repos\Master_C#_Programming\CustomeWinformsControls\obj\Release\CustomeWinformsControls.csproj.AssemblyReference.cache
+C:\Users\84339\source\repos\Master_C#_Programming\CustomeWinformsControls\obj\Release\CustomeWinformsControls.LoginControl.resources
+C:\Users\84339\source\repos\Master_C#_Programming\CustomeWinformsControls\obj\Release\CustomeWinformsControls.csproj.GenerateResource.cache
+C:\Users\84339\source\repos\Master_C#_Programming\CustomeWinformsControls\obj\Release\CustomeWinformsControls.csproj.CoreCompileInputs.cache
+C:\Users\84339\source\repos\Master_C#_Programming\CustomeWinformsControls\obj\Release\CustomeWinformsControls.dll
+C:\Users\84339\source\repos\Master_C#_Programming\CustomeWinformsControls\obj\Release\CustomeWinformsControls.pdb
